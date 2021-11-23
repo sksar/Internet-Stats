@@ -1,0 +1,6788 @@
+[
+  {
+    "tld": "com",
+    "domains": "157804622",
+    "ipv4": "140732249",
+    "ipv6": "13204787"
+  },
+  {
+    "tld": "cn",
+    "domains": "18904556",
+    "ipv4": "3724350",
+    "ipv6": "82400"
+  },
+  {
+    "tld": "net",
+    "domains": "13252940",
+    "ipv4": "11069293",
+    "ipv6": "1071976"
+  },
+  {
+    "tld": "de",
+    "domains": "13155766",
+    "ipv4": "7221148",
+    "ipv6": "2284212"
+  },
+  {
+    "tld": "org",
+    "domains": "10481127",
+    "ipv4": "9239259",
+    "ipv6": "948089"
+  },
+  {
+    "tld": "ru",
+    "domains": "5231672",
+    "ipv4": "2391414",
+    "ipv6": "448628"
+  },
+  {
+    "tld": "info",
+    "domains": "3811372",
+    "ipv4": "3312367",
+    "ipv6": "415300"
+  },
+  {
+    "tld": "xyz",
+    "domains": "3430041",
+    "ipv4": "2714426",
+    "ipv6": "561432"
+  },
+  {
+    "tld": "xn--fiqz9s",
+    "domains": "3276320",
+    "ipv4": "3026667",
+    "ipv6": "120"
+  },
+  {
+    "tld": "xn--fiqs8s",
+    "domains": "3276320",
+    "ipv4": "3076422",
+    "ipv6": "4443"
+  },
+  {
+    "tld": "us",
+    "domains": "2590213",
+    "ipv4": "923199",
+    "ipv6": "57215"
+  },
+  {
+    "tld": "online",
+    "domains": "1869373",
+    "ipv4": "1615539",
+    "ipv6": "315959"
+  },
+  {
+    "tld": "biz",
+    "domains": "1425814",
+    "ipv4": "1186352",
+    "ipv6": "137974"
+  },
+  {
+    "tld": "ca",
+    "domains": "1420247",
+    "ipv4": "620956",
+    "ipv6": "34233"
+  },
+  {
+    "tld": "top",
+    "domains": "1401210",
+    "ipv4": "869019",
+    "ipv6": "193761"
+  },
+  {
+    "tld": "dk",
+    "domains": "1319962",
+    "ipv4": "729379",
+    "ipv6": "177727"
+  },
+  {
+    "tld": "site",
+    "domains": "1071426",
+    "ipv4": "924196",
+    "ipv6": "210877"
+  },
+  {
+    "tld": "club",
+    "domains": "970105",
+    "ipv4": "823507",
+    "ipv6": "142026"
+  },
+  {
+    "tld": "shop",
+    "domains": "925001",
+    "ipv4": "783832",
+    "ipv6": "159510"
+  },
+  {
+    "tld": "xn--p1ai",
+    "domains": "792964",
+    "ipv4": "304870",
+    "ipv6": "54382"
+  },
+  {
+    "tld": "vip",
+    "domains": "790027",
+    "ipv4": "641954",
+    "ipv6": "23982"
+  },
+  {
+    "tld": "app",
+    "domains": "741539",
+    "ipv4": "636433",
+    "ipv6": "72667"
+  },
+  {
+    "tld": "me",
+    "domains": "714003",
+    "ipv4": "252210",
+    "ipv6": "31300"
+  },
+  {
+    "tld": "store",
+    "domains": "656961",
+    "ipv4": "566584",
+    "ipv6": "101122"
+  },
+  {
+    "tld": "hu",
+    "domains": "618473",
+    "ipv4": "324600",
+    "ipv6": "25639"
+  },
+  {
+    "tld": "live",
+    "domains": "545305",
+    "ipv4": "482567",
+    "ipv6": "155511"
+  },
+  {
+    "tld": "icu",
+    "domains": "486156",
+    "ipv4": "400909",
+    "ipv6": "23585"
+  },
+  {
+    "tld": "work",
+    "domains": "461640",
+    "ipv4": "304476",
+    "ipv6": "25618"
+  },
+  {
+    "tld": "vn",
+    "domains": "435368",
+    "ipv4": "106642",
+    "ipv6": "5592"
+  },
+  {
+    "tld": "ir",
+    "domains": "428763",
+    "ipv4": "147759",
+    "ipv6": "4409"
+  },
+  {
+    "tld": "no",
+    "domains": "422532",
+    "ipv4": "216006",
+    "ipv6": "73886"
+  },
+  {
+    "tld": "bar",
+    "domains": "387866",
+    "ipv4": "174033",
+    "ipv6": "30801"
+  },
+  {
+    "tld": "buzz",
+    "domains": "377031",
+    "ipv4": "182938",
+    "ipv6": "64828"
+  },
+  {
+    "tld": "tech",
+    "domains": "358904",
+    "ipv4": "286176",
+    "ipv6": "44853"
+  },
+  {
+    "tld": "space",
+    "domains": "324206",
+    "ipv4": "276639",
+    "ipv6": "62010"
+  },
+  {
+    "tld": "mobi",
+    "domains": "305835",
+    "ipv4": "247734",
+    "ipv6": "14463"
+  },
+  {
+    "tld": "dev",
+    "domains": "276485",
+    "ipv4": "190697",
+    "ipv6": "47495"
+  },
+  {
+    "tld": "pro",
+    "domains": "266738",
+    "ipv4": "232213",
+    "ipv6": "33483"
+  },
+  {
+    "tld": "sk",
+    "domains": "261188",
+    "ipv4": "140250",
+    "ipv6": "21009"
+  },
+  {
+    "tld": "website",
+    "domains": "249860",
+    "ipv4": "210843",
+    "ipv6": "35852"
+  },
+  {
+    "tld": "tokyo",
+    "domains": "234041",
+    "ipv4": "104861",
+    "ipv6": "3966"
+  },
+  {
+    "tld": "fun",
+    "domains": "228889",
+    "ipv4": "187429",
+    "ipv6": "41238"
+  },
+  {
+    "tld": "life",
+    "domains": "228150",
+    "ipv4": "204599",
+    "ipv6": "26064"
+  },
+  {
+    "tld": "cloud",
+    "domains": "221506",
+    "ipv4": "173406",
+    "ipv6": "22470"
+  },
+  {
+    "tld": "ae",
+    "domains": "200885",
+    "ipv4": "80241",
+    "ipv6": "3003"
+  },
+  {
+    "tld": "ie",
+    "domains": "196626",
+    "ipv4": "111336",
+    "ipv6": "9428"
+  },
+  {
+    "tld": "blog",
+    "domains": "191555",
+    "ipv4": "178300",
+    "ipv6": "10790"
+  },
+  {
+    "tld": "asia",
+    "domains": "191213",
+    "ipv4": "142866",
+    "ipv6": "14500"
+  },
+  {
+    "tld": "art",
+    "domains": "150515",
+    "ipv4": "132012",
+    "ipv6": "16548"
+  },
+  {
+    "tld": "pt",
+    "domains": "148142",
+    "ipv4": "56021",
+    "ipv6": "2993"
+  },
+  {
+    "tld": "link",
+    "domains": "147804",
+    "ipv4": "118611",
+    "ipv6": "15221"
+  },
+  {
+    "tld": "world",
+    "domains": "139435",
+    "ipv4": "122295",
+    "ipv6": "15263"
+  },
+  {
+    "tld": "my",
+    "domains": "133379",
+    "ipv4": "101413",
+    "ipv6": "4214"
+  },
+  {
+    "tld": "monster",
+    "domains": "132833",
+    "ipv4": "125853",
+    "ipv6": "8544"
+  },
+  {
+    "tld": "cyou",
+    "domains": "130194",
+    "ipv4": "83939",
+    "ipv6": "9570"
+  },
+  {
+    "tld": "one",
+    "domains": "125837",
+    "ipv4": "106731",
+    "ipv6": "32534"
+  },
+  {
+    "tld": "xin",
+    "domains": "124386",
+    "ipv4": "10244",
+    "ipv6": "199"
+  },
+  {
+    "tld": "design",
+    "domains": "123212",
+    "ipv4": "109383",
+    "ipv6": "12294"
+  },
+  {
+    "tld": "ee",
+    "domains": "121513",
+    "ipv4": "68793",
+    "ipv6": "5067"
+  },
+  {
+    "tld": "ltd",
+    "domains": "113867",
+    "ipv4": "66693",
+    "ipv6": "7011"
+  },
+  {
+    "tld": "name",
+    "domains": "112637",
+    "ipv4": "76682",
+    "ipv6": "10574"
+  },
+  {
+    "tld": "cat",
+    "domains": "112081",
+    "ipv4": "94268",
+    "ipv6": "7894"
+  },
+  {
+    "tld": "hk",
+    "domains": "111745",
+    "ipv4": "69491",
+    "ipv6": "11809"
+  },
+  {
+    "tld": "email",
+    "domains": "110534",
+    "ipv4": "85673",
+    "ipv6": "16300"
+  },
+  {
+    "tld": "digital",
+    "domains": "108243",
+    "ipv4": "95470",
+    "ipv6": "19484"
+  },
+  {
+    "tld": "xn--ses554g",
+    "domains": "106228",
+    "ipv4": "55379",
+    "ipv6": "12349"
+  },
+  {
+    "tld": "su",
+    "domains": "105034",
+    "ipv4": "48642",
+    "ipv6": "8113"
+  },
+  {
+    "tld": "today",
+    "domains": "100952",
+    "ipv4": "91399",
+    "ipv6": "13430"
+  },
+  {
+    "tld": "ph",
+    "domains": "98740",
+    "ipv4": "78235",
+    "ipv6": "8051"
+  },
+  {
+    "tld": "group",
+    "domains": "92925",
+    "ipv4": "71190",
+    "ipv6": "11973"
+  },
+  {
+    "tld": "click",
+    "domains": "91720",
+    "ipv4": "72743",
+    "ipv6": "11224"
+  },
+  {
+    "tld": "xxx",
+    "domains": "90646",
+    "ipv4": "88918",
+    "ipv6": "1148"
+  },
+  {
+    "tld": "uz",
+    "domains": "90261",
+    "ipv4": "58057",
+    "ipv6": "3371"
+  },
+  {
+    "tld": "studio",
+    "domains": "89468",
+    "ipv4": "78243",
+    "ipv6": "10553"
+  },
+  {
+    "tld": "solutions",
+    "domains": "88733",
+    "ipv4": "78813",
+    "ipv6": "9148"
+  },
+  {
+    "tld": "rs",
+    "domains": "86635",
+    "ipv4": "65753",
+    "ipv6": "8664"
+  },
+  {
+    "tld": "page",
+    "domains": "82186",
+    "ipv4": "28702",
+    "ipv6": "17322"
+  },
+  {
+    "tld": "agency",
+    "domains": "78843",
+    "ipv4": "71284",
+    "ipv6": "10703"
+  },
+  {
+    "tld": "rocks",
+    "domains": "78088",
+    "ipv4": "68920",
+    "ipv6": "12061"
+  },
+  {
+    "tld": "company",
+    "domains": "77380",
+    "ipv4": "64371",
+    "ipv6": "7133"
+  },
+  {
+    "tld": "news",
+    "domains": "76042",
+    "ipv4": "67001",
+    "ipv6": "13804"
+  },
+  {
+    "tld": "rest",
+    "domains": "67403",
+    "ipv4": "43668",
+    "ipv6": "23889"
+  },
+  {
+    "tld": "win",
+    "domains": "67367",
+    "ipv4": "50838",
+    "ipv6": "6767"
+  },
+  {
+    "tld": "media",
+    "domains": "64804",
+    "ipv4": "57461",
+    "ipv6": "9504"
+  },
+  {
+    "tld": "network",
+    "domains": "63911",
+    "ipv4": "52128",
+    "ipv6": "8058"
+  },
+  {
+    "tld": "realtor",
+    "domains": "63565",
+    "ipv4": "62584",
+    "ipv6": "156"
+  },
+  {
+    "tld": "nyc",
+    "domains": "63218",
+    "ipv4": "58670",
+    "ipv6": "5122"
+  },
+  {
+    "tld": "ovh",
+    "domains": "61358",
+    "ipv4": "57488",
+    "ipv6": "9017"
+  },
+  {
+    "tld": "guru",
+    "domains": "58245",
+    "ipv4": "52461",
+    "ipv6": "5269"
+  },
+  {
+    "tld": "services",
+    "domains": "58040",
+    "ipv4": "49410",
+    "ipv6": "6448"
+  },
+  {
+    "tld": "fit",
+    "domains": "55293",
+    "ipv4": "40610",
+    "ipv6": "6254"
+  },
+  {
+    "tld": "best",
+    "domains": "53287",
+    "ipv4": "43724",
+    "ipv6": "7578"
+  },
+  {
+    "tld": "wang",
+    "domains": "51667",
+    "ipv4": "22347",
+    "ipv6": "1070"
+  },
+  {
+    "tld": "global",
+    "domains": "51261",
+    "ipv4": "44765",
+    "ipv6": "5458"
+  },
+  {
+    "tld": "tel",
+    "domains": "51165",
+    "ipv4": "39653",
+    "ipv6": "1085"
+  },
+  {
+    "tld": "berlin",
+    "domains": "49286",
+    "ipv4": "45780",
+    "ipv6": "25858"
+  },
+  {
+    "tld": "academy",
+    "domains": "48348",
+    "ipv4": "42081",
+    "ipv6": "7257"
+  },
+  {
+    "tld": "pk",
+    "domains": "44768",
+    "ipv4": "19000",
+    "ipv6": "2044"
+  },
+  {
+    "tld": "photography",
+    "domains": "44287",
+    "ipv4": "40594",
+    "ipv6": "5616"
+  },
+  {
+    "tld": "finance",
+    "domains": "43444",
+    "ipv4": "37200",
+    "ipv6": "6180"
+  },
+  {
+    "tld": "kz",
+    "domains": "42493",
+    "ipv4": "16934",
+    "ipv6": "2628"
+  },
+  {
+    "tld": "cam",
+    "domains": "42019",
+    "ipv4": "33470",
+    "ipv6": "6938"
+  },
+  {
+    "tld": "casa",
+    "domains": "42009",
+    "ipv4": "33433",
+    "ipv6": "8171"
+  },
+  {
+    "tld": "center",
+    "domains": "40754",
+    "ipv4": "35235",
+    "ipv6": "4949"
+  },
+  {
+    "tld": "xn--j6w193g",
+    "domains": "40505",
+    "ipv4": "9207",
+    "ipv6": "6712"
+  },
+  {
+    "tld": "love",
+    "domains": "39681",
+    "ipv4": "31672",
+    "ipv6": "2551"
+  },
+  {
+    "tld": "ink",
+    "domains": "39037",
+    "ipv4": "24122",
+    "ipv6": "2602"
+  },
+  {
+    "tld": "london",
+    "domains": "38721",
+    "ipv4": "34458",
+    "ipv6": "4102"
+  },
+  {
+    "tld": "jobs",
+    "domains": "38307",
+    "ipv4": "7474",
+    "ipv6": "482"
+  },
+  {
+    "tld": "team",
+    "domains": "37917",
+    "ipv4": "30677",
+    "ipv6": "5243"
+  },
+  {
+    "tld": "games",
+    "domains": "37742",
+    "ipv4": "30622",
+    "ipv6": "5884"
+  },
+  {
+    "tld": "host",
+    "domains": "36523",
+    "ipv4": "29646",
+    "ipv6": "5209"
+  },
+  {
+    "tld": "zone",
+    "domains": "36294",
+    "ipv4": "30261",
+    "ipv6": "12018"
+  },
+  {
+    "tld": "systems",
+    "domains": "35167",
+    "ipv4": "28215",
+    "ipv6": "4707"
+  },
+  {
+    "tld": "quest",
+    "domains": "34184",
+    "ipv4": "31835",
+    "ipv6": "2433"
+  },
+  {
+    "tld": "technology",
+    "domains": "33939",
+    "ipv4": "27855",
+    "ipv6": "3519"
+  },
+  {
+    "tld": "fyi",
+    "domains": "33665",
+    "ipv4": "30489",
+    "ipv6": "20809"
+  },
+  {
+    "tld": "consulting",
+    "domains": "33596",
+    "ipv4": "28581",
+    "ipv6": "5563"
+  },
+  {
+    "tld": "ninja",
+    "domains": "33173",
+    "ipv4": "25941",
+    "ipv6": "3585"
+  },
+  {
+    "tld": "care",
+    "domains": "32374",
+    "ipv4": "28057",
+    "ipv6": "3802"
+  },
+  {
+    "tld": "expert",
+    "domains": "32316",
+    "ipv4": "28696",
+    "ipv6": "3955"
+  },
+  {
+    "tld": "earth",
+    "domains": "31611",
+    "ipv4": "29160",
+    "ipv6": "2157"
+  },
+  {
+    "tld": "ma",
+    "domains": "31415",
+    "ipv4": "6391",
+    "ipv6": "596"
+  },
+  {
+    "tld": "bayern",
+    "domains": "30843",
+    "ipv4": "21506",
+    "ipv6": "9840"
+  },
+  {
+    "tld": "city",
+    "domains": "30766",
+    "ipv4": "24879",
+    "ipv6": "4125"
+  },
+  {
+    "tld": "xn--55qx5d",
+    "domains": "30574",
+    "ipv4": "10979",
+    "ipv6": "792"
+  },
+  {
+    "tld": "support",
+    "domains": "30324",
+    "ipv4": "24666",
+    "ipv6": "3925"
+  },
+  {
+    "tld": "education",
+    "domains": "30201",
+    "ipv4": "24926",
+    "ipv6": "3453"
+  },
+  {
+    "tld": "africa",
+    "domains": "30036",
+    "ipv4": "23234",
+    "ipv6": "1794"
+  },
+  {
+    "tld": "family",
+    "domains": "29833",
+    "ipv4": "22283",
+    "ipv6": "4116"
+  },
+  {
+    "tld": "cm",
+    "domains": "29626",
+    "ipv4": "15618",
+    "ipv6": "1116"
+  },
+  {
+    "tld": "business",
+    "domains": "29213",
+    "ipv4": "23363",
+    "ipv6": "3888"
+  },
+  {
+    "tld": "plus",
+    "domains": "28344",
+    "ipv4": "20873",
+    "ipv6": "5032"
+  },
+  {
+    "tld": "church",
+    "domains": "28304",
+    "ipv4": "26056",
+    "ipv6": "3255"
+  },
+  {
+    "tld": "works",
+    "domains": "28083",
+    "ipv4": "24227",
+    "ipv6": "4730"
+  },
+  {
+    "tld": "tn",
+    "domains": "27860",
+    "ipv4": "11117",
+    "ipv6": "1022"
+  },
+  {
+    "tld": "health",
+    "domains": "27827",
+    "ipv4": "24197",
+    "ipv6": "1439"
+  },
+  {
+    "tld": "events",
+    "domains": "27550",
+    "ipv4": "23947",
+    "ipv6": "4128"
+  },
+  {
+    "tld": "international",
+    "domains": "27043",
+    "ipv4": "23592",
+    "ipv6": "3662"
+  },
+  {
+    "tld": "marketing",
+    "domains": "26907",
+    "ipv4": "23806",
+    "ipv6": "3386"
+  },
+  {
+    "tld": "wiki",
+    "domains": "26614",
+    "ipv4": "19781",
+    "ipv6": "3204"
+  },
+  {
+    "tld": "farm",
+    "domains": "25998",
+    "ipv4": "22684",
+    "ipv6": "2128"
+  },
+  {
+    "tld": "uno",
+    "domains": "25997",
+    "ipv4": "19958",
+    "ipv6": "5080"
+  },
+  {
+    "tld": "cool",
+    "domains": "25905",
+    "ipv4": "18546",
+    "ipv6": "2497"
+  },
+  {
+    "tld": "house",
+    "domains": "25851",
+    "ipv4": "22748",
+    "ipv6": "2551"
+  },
+  {
+    "tld": "social",
+    "domains": "25705",
+    "ipv4": "21389",
+    "ipv6": "2606"
+  },
+  {
+    "tld": "press",
+    "domains": "25467",
+    "ipv4": "15876",
+    "ipv6": "2154"
+  },
+  {
+    "tld": "tips",
+    "domains": "25332",
+    "ipv4": "22494",
+    "ipv6": "4127"
+  },
+  {
+    "tld": "koeln",
+    "domains": "25141",
+    "ipv4": "22147",
+    "ipv6": "15050"
+  },
+  {
+    "tld": "bet",
+    "domains": "24975",
+    "ipv4": "21502",
+    "ipv6": "3976"
+  },
+  {
+    "tld": "bg",
+    "domains": "24721",
+    "ipv4": "13065",
+    "ipv6": "807"
+  },
+  {
+    "tld": "capital",
+    "domains": "24133",
+    "ipv4": "20948",
+    "ipv6": "2889"
+  },
+  {
+    "tld": "video",
+    "domains": "23880",
+    "ipv4": "18533",
+    "ipv6": "2831"
+  },
+  {
+    "tld": "wtf",
+    "domains": "23805",
+    "ipv4": "19274",
+    "ipv6": "3757"
+  },
+  {
+    "tld": "gmbh",
+    "domains": "23738",
+    "ipv4": "21600",
+    "ipv6": "9664"
+  },
+  {
+    "tld": "run",
+    "domains": "23697",
+    "ipv4": "17633",
+    "ipv6": "2628"
+  },
+  {
+    "tld": "coffee",
+    "domains": "23614",
+    "ipv4": "20594",
+    "ipv6": "2249"
+  },
+  {
+    "tld": "photos",
+    "domains": "23016",
+    "ipv4": "20269",
+    "ipv6": "2904"
+  },
+  {
+    "tld": "xn--czr694b",
+    "domains": "22787",
+    "ipv4": "15397",
+    "ipv6": "78"
+  },
+  {
+    "tld": "travel",
+    "domains": "22731",
+    "ipv4": "19452",
+    "ipv6": "1748"
+  },
+  {
+    "tld": "school",
+    "domains": "22514",
+    "ipv4": "19707",
+    "ipv6": "2282"
+  },
+  {
+    "tld": "llc",
+    "domains": "22486",
+    "ipv4": "16484",
+    "ipv6": "1896"
+  },
+  {
+    "tld": "training",
+    "domains": "22465",
+    "ipv4": "19431",
+    "ipv6": "3090"
+  },
+  {
+    "tld": "xn--czru2d",
+    "domains": "22451",
+    "ipv4": "9285",
+    "ipv6": "5"
+  },
+  {
+    "tld": "amsterdam",
+    "domains": "22330",
+    "ipv4": "20798",
+    "ipv6": "14923"
+  },
+  {
+    "tld": "xn--3ds443g",
+    "domains": "22237",
+    "ipv4": "6119",
+    "ipv6": "321"
+  },
+  {
+    "tld": "coach",
+    "domains": "22131",
+    "ipv4": "20254",
+    "ipv6": "3396"
+  },
+  {
+    "tld": "pub",
+    "domains": "21998",
+    "ipv4": "14072",
+    "ipv6": "2142"
+  },
+  {
+    "tld": "market",
+    "domains": "21580",
+    "ipv4": "17937",
+    "ipv6": "4140"
+  },
+  {
+    "tld": "bio",
+    "domains": "21130",
+    "ipv4": "18741",
+    "ipv6": "2821"
+  },
+  {
+    "tld": "xn--io0a7i",
+    "domains": "20925",
+    "ipv4": "7051",
+    "ipv6": "482"
+  },
+  {
+    "tld": "gallery",
+    "domains": "20513",
+    "ipv4": "18366",
+    "ipv6": "2587"
+  },
+  {
+    "tld": "fund",
+    "domains": "20384",
+    "ipv4": "16513",
+    "ipv6": "1669"
+  },
+  {
+    "tld": "community",
+    "domains": "20249",
+    "ipv4": "15635",
+    "ipv6": "2732"
+  },
+  {
+    "tld": "hamburg",
+    "domains": "20141",
+    "ipv4": "18923",
+    "ipv6": "8857"
+  },
+  {
+    "tld": "paris",
+    "domains": "20133",
+    "ipv4": "18409",
+    "ipv6": "2885"
+  },
+  {
+    "tld": "chat",
+    "domains": "20053",
+    "ipv4": "15744",
+    "ipv6": "2424"
+  },
+  {
+    "tld": "cafe",
+    "domains": "20035",
+    "ipv4": "17421",
+    "ipv6": "2456"
+  },
+  {
+    "tld": "foundation",
+    "domains": "19960",
+    "ipv4": "16935",
+    "ipv6": "1814"
+  },
+  {
+    "tld": "red",
+    "domains": "19706",
+    "ipv4": "14331",
+    "ipv6": "2162"
+  },
+  {
+    "tld": "land",
+    "domains": "19579",
+    "ipv4": "16874",
+    "ipv6": "2887"
+  },
+  {
+    "tld": "software",
+    "domains": "19531",
+    "ipv4": "16297",
+    "ipv6": "2948"
+  },
+  {
+    "tld": "party",
+    "domains": "19473",
+    "ipv4": "15628",
+    "ipv6": "2828"
+  },
+  {
+    "tld": "trade",
+    "domains": "19382",
+    "ipv4": "15684",
+    "ipv6": "2483"
+  },
+  {
+    "tld": "cash",
+    "domains": "19059",
+    "ipv4": "16166",
+    "ipv6": "2386"
+  },
+  {
+    "tld": "immo",
+    "domains": "18828",
+    "ipv4": "15739",
+    "ipv6": "4335"
+  },
+  {
+    "tld": "ventures",
+    "domains": "18825",
+    "ipv4": "16051",
+    "ipv6": "1586"
+  },
+  {
+    "tld": "codes",
+    "domains": "18678",
+    "ipv4": "15649",
+    "ipv6": "2368"
+  },
+  {
+    "tld": "swiss",
+    "domains": "18545",
+    "ipv4": "13381",
+    "ipv6": "4001"
+  },
+  {
+    "tld": "photo",
+    "domains": "18512",
+    "ipv4": "16122",
+    "ipv6": "2606"
+  },
+  {
+    "tld": "kred",
+    "domains": "18255",
+    "ipv4": "18182",
+    "ipv6": "0"
+  },
+  {
+    "tld": "help",
+    "domains": "18249",
+    "ipv4": "14907",
+    "ipv6": "2447"
+  },
+  {
+    "tld": "show",
+    "domains": "18169",
+    "ipv4": "13922",
+    "ipv6": "1689"
+  },
+  {
+    "tld": "xn--kput3i",
+    "domains": "18084",
+    "ipv4": "3483",
+    "ipv6": "5"
+  },
+  {
+    "tld": "law",
+    "domains": "18076",
+    "ipv4": "13747",
+    "ipv6": "1045"
+  },
+  {
+    "tld": "tools",
+    "domains": "18043",
+    "ipv4": "14121",
+    "ipv6": "2632"
+  },
+  {
+    "tld": "directory",
+    "domains": "17648",
+    "ipv4": "15246",
+    "ipv6": "1366"
+  },
+  {
+    "tld": "ge",
+    "domains": "17602",
+    "ipv4": "8354",
+    "ipv6": "672"
+  },
+  {
+    "tld": "bid",
+    "domains": "17538",
+    "ipv4": "13583",
+    "ipv6": "2184"
+  },
+  {
+    "tld": "nrw",
+    "domains": "17529",
+    "ipv4": "14224",
+    "ipv6": "7786"
+  },
+  {
+    "tld": "exchange",
+    "domains": "17450",
+    "ipv4": "14886",
+    "ipv6": "2100"
+  },
+  {
+    "tld": "wine",
+    "domains": "17294",
+    "ipv4": "15696",
+    "ipv6": "1478"
+  },
+  {
+    "tld": "mn",
+    "domains": "17179",
+    "ipv4": "9129",
+    "ipv6": "616"
+  },
+  {
+    "tld": "guide",
+    "domains": "17136",
+    "ipv4": "14773",
+    "ipv6": "2322"
+  },
+  {
+    "tld": "to",
+    "domains": "16987",
+    "ipv4": "10277",
+    "ipv6": "1324"
+  },
+  {
+    "tld": "money",
+    "domains": "16924",
+    "ipv4": "14534",
+    "ipv6": "1888"
+  },
+  {
+    "tld": "bike",
+    "domains": "16922",
+    "ipv4": "14863",
+    "ipv6": "2615"
+  },
+  {
+    "tld": "energy",
+    "domains": "16783",
+    "ipv4": "14996",
+    "ipv6": "1833"
+  },
+  {
+    "tld": "tc",
+    "domains": "16461",
+    "ipv4": "2772",
+    "ipv6": "154"
+  },
+  {
+    "tld": "moscow",
+    "domains": "16335",
+    "ipv4": "13140",
+    "ipv6": "2356"
+  },
+  {
+    "tld": "realty",
+    "domains": "16029",
+    "ipv4": "15768",
+    "ipv6": "107"
+  },
+  {
+    "tld": "stream",
+    "domains": "15990",
+    "ipv4": "13573",
+    "ipv6": "3682"
+  },
+  {
+    "tld": "wedding",
+    "domains": "15910",
+    "ipv4": "14567",
+    "ipv6": "946"
+  },
+  {
+    "tld": "wien",
+    "domains": "15904",
+    "ipv4": "13970",
+    "ipv6": "3201"
+  },
+  {
+    "tld": "dog",
+    "domains": "15876",
+    "ipv4": "14063",
+    "ipv6": "1949"
+  },
+  {
+    "tld": "legal",
+    "domains": "15864",
+    "ipv4": "13981",
+    "ipv6": "2231"
+  },
+  {
+    "tld": "surf",
+    "domains": "15762",
+    "ipv4": "13350",
+    "ipv6": "2660"
+  },
+  {
+    "tld": "ng",
+    "domains": "15460",
+    "ipv4": "5295",
+    "ipv6": "799"
+  },
+  {
+    "tld": "am",
+    "domains": "15428",
+    "ipv4": "5897",
+    "ipv6": "889"
+  },
+  {
+    "tld": "beer",
+    "domains": "15410",
+    "ipv4": "12484",
+    "ipv6": "1485"
+  },
+  {
+    "tld": "gt",
+    "domains": "15406",
+    "ipv4": "7179",
+    "ipv6": "579"
+  },
+  {
+    "tld": "ren",
+    "domains": "15388",
+    "ipv4": "6738",
+    "ipv6": "342"
+  },
+  {
+    "tld": "miami",
+    "domains": "15322",
+    "ipv4": "13380",
+    "ipv6": "712"
+  },
+  {
+    "tld": "properties",
+    "domains": "15145",
+    "ipv4": "13632",
+    "ipv6": "1036"
+  },
+  {
+    "tld": "ac",
+    "domains": "15116",
+    "ipv4": "1711",
+    "ipv6": "198"
+  },
+  {
+    "tld": "yoga",
+    "domains": "14901",
+    "ipv4": "12528",
+    "ipv6": "1390"
+  },
+  {
+    "tld": "band",
+    "domains": "14770",
+    "ipv4": "13261",
+    "ipv6": "2029"
+  },
+  {
+    "tld": "institute",
+    "domains": "14532",
+    "ipv4": "12523",
+    "ipv6": "1867"
+  },
+  {
+    "tld": "xn--6qq986b3xl",
+    "domains": "14531",
+    "ipv4": "4714",
+    "ipv6": "270"
+  },
+  {
+    "tld": "st",
+    "domains": "14506",
+    "ipv4": "8280",
+    "ipv6": "540"
+  },
+  {
+    "tld": "homes",
+    "domains": "14475",
+    "ipv4": "13298",
+    "ipv6": "596"
+  },
+  {
+    "tld": "reviews",
+    "domains": "14367",
+    "ipv4": "11851",
+    "ipv6": "1182"
+  },
+  {
+    "tld": "sale",
+    "domains": "14257",
+    "ipv4": "11847",
+    "ipv6": "1989"
+  },
+  {
+    "tld": "science",
+    "domains": "14211",
+    "ipv4": "11720",
+    "ipv6": "1660"
+  },
+  {
+    "tld": "lol",
+    "domains": "14031",
+    "ipv4": "11813",
+    "ipv6": "1512"
+  },
+  {
+    "tld": "ag",
+    "domains": "14031",
+    "ipv4": "5095",
+    "ipv6": "705"
+  },
+  {
+    "tld": "blue",
+    "domains": "13990",
+    "ipv4": "11355",
+    "ipv6": "1729"
+  },
+  {
+    "tld": "clothing",
+    "domains": "13796",
+    "ipv4": "12001",
+    "ipv6": "970"
+  },
+  {
+    "tld": "realestate",
+    "domains": "13701",
+    "ipv4": "13216",
+    "ipv6": "194"
+  },
+  {
+    "tld": "wales",
+    "domains": "13558",
+    "ipv4": "12084",
+    "ipv6": "2472"
+  },
+  {
+    "tld": "scot",
+    "domains": "13252",
+    "ipv4": "11617",
+    "ipv6": "3247"
+  },
+  {
+    "tld": "fitness",
+    "domains": "13212",
+    "ipv4": "11654",
+    "ipv6": "1544"
+  },
+  {
+    "tld": "kiwi",
+    "domains": "13176",
+    "ipv4": "10402",
+    "ipv6": "461"
+  },
+  {
+    "tld": "golf",
+    "domains": "13163",
+    "ipv4": "12118",
+    "ipv6": "1175"
+  },
+  {
+    "tld": "boutique",
+    "domains": "13112",
+    "ipv4": "11461",
+    "ipv6": "1683"
+  },
+  {
+    "tld": "direct",
+    "domains": "12936",
+    "ipv4": "11103",
+    "ipv6": "1740"
+  },
+  {
+    "tld": "style",
+    "domains": "12862",
+    "ipv4": "11068",
+    "ipv6": "1168"
+  },
+  {
+    "tld": "fashion",
+    "domains": "12790",
+    "ipv4": "10258",
+    "ipv6": "1513"
+  },
+  {
+    "tld": "xn--80adxhks",
+    "domains": "12701",
+    "ipv4": "10205",
+    "ipv6": "1360"
+  },
+  {
+    "tld": "gay",
+    "domains": "12598",
+    "ipv4": "10722",
+    "ipv6": "1491"
+  },
+  {
+    "tld": "pet",
+    "domains": "12597",
+    "ipv4": "11256",
+    "ipv6": "983"
+  },
+  {
+    "tld": "gold",
+    "domains": "12594",
+    "ipv4": "10277",
+    "ipv6": "1178"
+  },
+  {
+    "tld": "management",
+    "domains": "12582",
+    "ipv4": "10496",
+    "ipv6": "1986"
+  },
+  {
+    "tld": "eus",
+    "domains": "12481",
+    "ipv4": "10667",
+    "ipv6": "876"
+  },
+  {
+    "tld": "rentals",
+    "domains": "12398",
+    "ipv4": "11137",
+    "ipv6": "998"
+  },
+  {
+    "tld": "contact",
+    "domains": "12303",
+    "ipv4": "10635",
+    "ipv6": "1858"
+  },
+  {
+    "tld": "aero",
+    "domains": "12221",
+    "ipv4": "10145",
+    "ipv6": "973"
+  },
+  {
+    "tld": "vegas",
+    "domains": "12127",
+    "ipv4": "11189",
+    "ipv6": "1395"
+  },
+  {
+    "tld": "partners",
+    "domains": "12085",
+    "ipv4": "10361",
+    "ipv6": "1418"
+  },
+  {
+    "tld": "frl",
+    "domains": "12034",
+    "ipv4": "11172",
+    "ipv6": "6914"
+  },
+  {
+    "tld": "ly",
+    "domains": "12026",
+    "ipv4": "4706",
+    "ipv6": "1133"
+  },
+  {
+    "tld": "dz",
+    "domains": "11976",
+    "ipv4": "7091",
+    "ipv6": "266"
+  },
+  {
+    "tld": "sbs",
+    "domains": "11796",
+    "ipv4": "9739",
+    "ipv6": "2060"
+  },
+  {
+    "tld": "review",
+    "domains": "11753",
+    "ipv4": "9841",
+    "ipv6": "1602"
+  },
+  {
+    "tld": "men",
+    "domains": "11511",
+    "ipv4": "8923",
+    "ipv6": "1432"
+  },
+  {
+    "tld": "clinic",
+    "domains": "11315",
+    "ipv4": "9867",
+    "ipv6": "1336"
+  },
+  {
+    "tld": "estate",
+    "domains": "11295",
+    "ipv4": "10086",
+    "ipv6": "1327"
+  },
+  {
+    "tld": "bzh",
+    "domains": "11243",
+    "ipv4": "10453",
+    "ipv6": "1754"
+  },
+  {
+    "tld": "tours",
+    "domains": "11133",
+    "ipv4": "10241",
+    "ipv6": "1272"
+  },
+  {
+    "tld": "az",
+    "domains": "11103",
+    "ipv4": "4739",
+    "ipv6": "1033"
+  },
+  {
+    "tld": "moe",
+    "domains": "10955",
+    "ipv4": "8664",
+    "ipv6": "2455"
+  },
+  {
+    "tld": "xn--p1acf",
+    "domains": "10953",
+    "ipv4": "2660",
+    "ipv6": "593"
+  },
+  {
+    "tld": "deals",
+    "domains": "10544",
+    "ipv4": "9097",
+    "ipv6": "1353"
+  },
+  {
+    "tld": "healthcare",
+    "domains": "10512",
+    "ipv4": "8236",
+    "ipv6": "769"
+  },
+  {
+    "tld": "kg",
+    "domains": "10448",
+    "ipv4": "8628",
+    "ipv6": "950"
+  },
+  {
+    "tld": "vision",
+    "domains": "10420",
+    "ipv4": "8879",
+    "ipv6": "1634"
+  },
+  {
+    "tld": "productions",
+    "domains": "10366",
+    "ipv4": "9033",
+    "ipv6": "1081"
+  },
+  {
+    "tld": "ooo",
+    "domains": "10303",
+    "ipv4": "7593",
+    "ipv6": "1549"
+  },
+  {
+    "tld": "careers",
+    "domains": "10290",
+    "ipv4": "8543",
+    "ipv6": "854"
+  },
+  {
+    "tld": "cards",
+    "domains": "10243",
+    "ipv4": "8737",
+    "ipv6": "1148"
+  },
+  {
+    "tld": "solar",
+    "domains": "10082",
+    "ipv4": "9024",
+    "ipv6": "1400"
+  },
+  {
+    "tld": "porn",
+    "domains": "10022",
+    "ipv4": "6473",
+    "ipv6": "319"
+  },
+  {
+    "tld": "tax",
+    "domains": "10015",
+    "ipv4": "8768",
+    "ipv6": "1440"
+  },
+  {
+    "tld": "jetzt",
+    "domains": "9922",
+    "ipv4": "9223",
+    "ipv6": "2850"
+  },
+  {
+    "tld": "construction",
+    "domains": "9908",
+    "ipv4": "8580",
+    "ipv6": "858"
+  },
+  {
+    "tld": "cologne",
+    "domains": "9819",
+    "ipv4": "8862",
+    "ipv6": "7216"
+  },
+  {
+    "tld": "ruhr",
+    "domains": "9699",
+    "ipv4": "4687",
+    "ipv6": "2531"
+  },
+  {
+    "tld": "casino",
+    "domains": "9620",
+    "ipv4": "8629",
+    "ipv6": "1652"
+  },
+  {
+    "tld": "ba",
+    "domains": "9572",
+    "ipv4": "4569",
+    "ipv6": "462"
+  },
+  {
+    "tld": "delivery",
+    "domains": "9559",
+    "ipv4": "8369",
+    "ipv6": "1073"
+  },
+  {
+    "tld": "sport",
+    "domains": "9448",
+    "ipv4": "841",
+    "ipv6": "65"
+  },
+  {
+    "tld": "watch",
+    "domains": "9424",
+    "ipv4": "7935",
+    "ipv6": "1382"
+  },
+  {
+    "tld": "lawyer",
+    "domains": "9350",
+    "ipv4": "8315",
+    "ipv6": "624"
+  },
+  {
+    "tld": "report",
+    "domains": "9277",
+    "ipv4": "7416",
+    "ipv6": "1066"
+  },
+  {
+    "tld": "express",
+    "domains": "9096",
+    "ipv4": "7936",
+    "ipv6": "1386"
+  },
+  {
+    "tld": "pizza",
+    "domains": "9085",
+    "ipv4": "8197",
+    "ipv6": "1034"
+  },
+  {
+    "tld": "sucks",
+    "domains": "9034",
+    "ipv4": "6369",
+    "ipv6": "72"
+  },
+  {
+    "tld": "pictures",
+    "domains": "8889",
+    "ipv4": "7493",
+    "ipv6": "1426"
+  },
+  {
+    "tld": "pe",
+    "domains": "8772",
+    "ipv4": "3096",
+    "ipv6": "259"
+  },
+  {
+    "tld": "date",
+    "domains": "8768",
+    "ipv4": "6416",
+    "ipv6": "1158"
+  },
+  {
+    "tld": "sa",
+    "domains": "8755",
+    "ipv4": "4752",
+    "ipv6": "359"
+  },
+  {
+    "tld": "dental",
+    "domains": "8753",
+    "ipv4": "7874",
+    "ipv6": "1288"
+  },
+  {
+    "tld": "engineering",
+    "domains": "8654",
+    "ipv4": "6733",
+    "ipv6": "1173"
+  },
+  {
+    "tld": "sv",
+    "domains": "8641",
+    "ipv4": "5207",
+    "ipv6": "360"
+  },
+  {
+    "tld": "holdings",
+    "domains": "8569",
+    "ipv4": "6755",
+    "ipv6": "728"
+  },
+  {
+    "tld": "lk",
+    "domains": "8512",
+    "ipv4": "3596",
+    "ipv6": "393"
+  },
+  {
+    "tld": "ec",
+    "domains": "8469",
+    "ipv4": "2558",
+    "ipv6": "167"
+  },
+  {
+    "tld": "vg",
+    "domains": "8402",
+    "ipv4": "7536",
+    "ipv6": "187"
+  },
+  {
+    "tld": "vet",
+    "domains": "8382",
+    "ipv4": "7270",
+    "ipv6": "913"
+  },
+  {
+    "tld": "kim",
+    "domains": "8350",
+    "ipv4": "5657",
+    "ipv6": "798"
+  },
+  {
+    "tld": "shopping",
+    "domains": "8316",
+    "ipv4": "6594",
+    "ipv6": "1063"
+  },
+  {
+    "tld": "dance",
+    "domains": "8303",
+    "ipv4": "7394",
+    "ipv6": "1144"
+  },
+  {
+    "tld": "kitchen",
+    "domains": "8293",
+    "ipv4": "7234",
+    "ipv6": "927"
+  },
+  {
+    "tld": "brussels",
+    "domains": "8261",
+    "ipv4": "6251",
+    "ipv6": "784"
+  },
+  {
+    "tld": "onl",
+    "domains": "8227",
+    "ipv4": "7097",
+    "ipv6": "1701"
+  },
+  {
+    "tld": "coop",
+    "domains": "8220",
+    "ipv4": "7012",
+    "ipv6": "791"
+  },
+  {
+    "tld": "download",
+    "domains": "8195",
+    "ipv4": "6572",
+    "ipv6": "1308"
+  },
+  {
+    "tld": "restaurant",
+    "domains": "8173",
+    "ipv4": "7199",
+    "ipv6": "1123"
+  },
+  {
+    "tld": "bm",
+    "domains": "8109",
+    "ipv4": "1305",
+    "ipv6": "27"
+  },
+  {
+    "tld": "ist",
+    "domains": "8085",
+    "ipv4": "6182",
+    "ipv6": "645"
+  },
+  {
+    "tld": "adult",
+    "domains": "8065",
+    "ipv4": "4964",
+    "ipv6": "146"
+  },
+  {
+    "tld": "camp",
+    "domains": "8052",
+    "ipv4": "6928",
+    "ipv6": "1096"
+  },
+  {
+    "tld": "university",
+    "domains": "8030",
+    "ipv4": "6680",
+    "ipv6": "827"
+  },
+  {
+    "tld": "cfd",
+    "domains": "8009",
+    "ipv4": "7623",
+    "ipv6": "3752"
+  },
+  {
+    "tld": "sex",
+    "domains": "7985",
+    "ipv4": "5371",
+    "ipv6": "348"
+  },
+  {
+    "tld": "vi",
+    "domains": "7984",
+    "ipv4": "164",
+    "ipv6": "2"
+  },
+  {
+    "tld": "haus",
+    "domains": "7969",
+    "ipv4": "6936",
+    "ipv6": "3082"
+  },
+  {
+    "tld": "cymru",
+    "domains": "7961",
+    "ipv4": "7055",
+    "ipv6": "1026"
+  },
+  {
+    "tld": "pics",
+    "domains": "7787",
+    "ipv4": "6565",
+    "ipv6": "701"
+  },
+  {
+    "tld": "dj",
+    "domains": "7748",
+    "ipv4": "2378",
+    "ipv6": "214"
+  },
+  {
+    "tld": "tirol",
+    "domains": "7708",
+    "ipv4": "6853",
+    "ipv6": "990"
+  },
+  {
+    "tld": "repair",
+    "domains": "7641",
+    "ipv4": "6730",
+    "ipv6": "1003"
+  },
+  {
+    "tld": "place",
+    "domains": "7585",
+    "ipv4": "6122",
+    "ipv6": "895"
+  },
+  {
+    "tld": "sn",
+    "domains": "7407",
+    "ipv4": "5820",
+    "ipv6": "653"
+  },
+  {
+    "tld": "enterprises",
+    "domains": "7379",
+    "ipv4": "5915",
+    "ipv6": "737"
+  },
+  {
+    "tld": "domains",
+    "domains": "7293",
+    "ipv4": "5634",
+    "ipv6": "876"
+  },
+  {
+    "tld": "vin",
+    "domains": "7289",
+    "ipv4": "6251",
+    "ipv6": "868"
+  },
+  {
+    "tld": "green",
+    "domains": "7286",
+    "ipv4": "6409",
+    "ipv6": "731"
+  },
+  {
+    "tld": "supply",
+    "domains": "7191",
+    "ipv4": "6073",
+    "ipv6": "668"
+  },
+  {
+    "tld": "immobilien",
+    "domains": "7142",
+    "ipv4": "6666",
+    "ipv6": "3037"
+  },
+  {
+    "tld": "tj",
+    "domains": "7118",
+    "ipv4": "5214",
+    "ipv6": "784"
+  },
+  {
+    "tld": "sydney",
+    "domains": "7011",
+    "ipv4": "5487",
+    "ipv6": "488"
+  },
+  {
+    "tld": "al",
+    "domains": "6967",
+    "ipv4": "3025",
+    "ipv6": "606"
+  },
+  {
+    "tld": "graphics",
+    "domains": "6949",
+    "ipv4": "6167",
+    "ipv6": "930"
+  },
+  {
+    "tld": "parts",
+    "domains": "6945",
+    "ipv4": "6051",
+    "ipv6": "594"
+  },
+  {
+    "tld": "quebec",
+    "domains": "6929",
+    "ipv4": "5489",
+    "ipv6": "322"
+  },
+  {
+    "tld": "financial",
+    "domains": "6926",
+    "ipv4": "5528",
+    "ipv6": "588"
+  },
+  {
+    "tld": "limited",
+    "domains": "6923",
+    "ipv4": "5747",
+    "ipv6": "880"
+  },
+  {
+    "tld": "cpa",
+    "domains": "6799",
+    "ipv4": "6693",
+    "ipv6": "101"
+  },
+  {
+    "tld": "menu",
+    "domains": "6706",
+    "ipv4": "5925",
+    "ipv6": "510"
+  },
+  {
+    "tld": "istanbul",
+    "domains": "6692",
+    "ipv4": "4858",
+    "ipv6": "244"
+  },
+  {
+    "tld": "cd",
+    "domains": "6679",
+    "ipv4": "2679",
+    "ipv6": "373"
+  },
+  {
+    "tld": "computer",
+    "domains": "6658",
+    "ipv4": "5193",
+    "ipv6": "951"
+  },
+  {
+    "tld": "fans",
+    "domains": "6493",
+    "ipv4": "4081",
+    "ipv6": "823"
+  },
+  {
+    "tld": "melbourne",
+    "domains": "6479",
+    "ipv4": "4873",
+    "ipv6": "433"
+  },
+  {
+    "tld": "black",
+    "domains": "6399",
+    "ipv4": "5524",
+    "ipv6": "570"
+  },
+  {
+    "tld": "jm",
+    "domains": "6380",
+    "ipv4": "1363",
+    "ipv6": "30"
+  },
+  {
+    "tld": "fan",
+    "domains": "6263",
+    "ipv4": "4537",
+    "ipv6": "988"
+  },
+  {
+    "tld": "investments",
+    "domains": "6256",
+    "ipv4": "5055",
+    "ipv6": "700"
+  },
+  {
+    "tld": "vlaanderen",
+    "domains": "6205",
+    "ipv4": "4776",
+    "ipv6": "840"
+  },
+  {
+    "tld": "rip",
+    "domains": "6205",
+    "ipv4": "4975",
+    "ipv6": "1213"
+  },
+  {
+    "tld": "industries",
+    "domains": "6140",
+    "ipv4": "4894",
+    "ipv6": "712"
+  },
+  {
+    "tld": "srl",
+    "domains": "6131",
+    "ipv4": "5733",
+    "ipv6": "240"
+  },
+  {
+    "tld": "gifts",
+    "domains": "6115",
+    "ipv4": "5256",
+    "ipv6": "516"
+  },
+  {
+    "tld": "football",
+    "domains": "6098",
+    "ipv4": "5237",
+    "ipv6": "553"
+  },
+  {
+    "tld": "gal",
+    "domains": "6081",
+    "ipv4": "4896",
+    "ipv6": "384"
+  },
+  {
+    "tld": "bond",
+    "domains": "6039",
+    "ipv4": "5760",
+    "ipv6": "250"
+  },
+  {
+    "tld": "xn--j1amh",
+    "domains": "6020",
+    "ipv4": "4855",
+    "ipv6": "1184"
+  },
+  {
+    "tld": "loan",
+    "domains": "6013",
+    "ipv4": "4422",
+    "ipv6": "589"
+  },
+  {
+    "tld": "lighting",
+    "domains": "5970",
+    "ipv4": "5269",
+    "ipv6": "775"
+  },
+  {
+    "tld": "promo",
+    "domains": "5955",
+    "ipv4": "4887",
+    "ipv6": "617"
+  },
+  {
+    "tld": "taxi",
+    "domains": "5943",
+    "ipv4": "5311",
+    "ipv6": "1435"
+  },
+  {
+    "tld": "kaufen",
+    "domains": "5937",
+    "ipv4": "5403",
+    "ipv6": "2202"
+  },
+  {
+    "tld": "pink",
+    "domains": "5910",
+    "ipv4": "5005",
+    "ipv6": "684"
+  },
+  {
+    "tld": "cr",
+    "domains": "5880",
+    "ipv4": "1991",
+    "ipv6": "150"
+  },
+  {
+    "tld": "insure",
+    "domains": "5871",
+    "ipv4": "4874",
+    "ipv6": "392"
+  },
+  {
+    "tld": "gift",
+    "domains": "5856",
+    "ipv4": "4508",
+    "ipv6": "440"
+  },
+  {
+    "tld": "town",
+    "domains": "5851",
+    "ipv4": "4919",
+    "ipv6": "703"
+  },
+  {
+    "tld": "ski",
+    "domains": "5823",
+    "ipv4": "4986",
+    "ipv6": "731"
+  },
+  {
+    "tld": "ky",
+    "domains": "5817",
+    "ipv4": "3260",
+    "ipv6": "154"
+  },
+  {
+    "tld": "builders",
+    "domains": "5722",
+    "ipv4": "4862",
+    "ipv6": "536"
+  },
+  {
+    "tld": "ci",
+    "domains": "5690",
+    "ipv4": "1999",
+    "ipv6": "92"
+  },
+  {
+    "tld": "apartments",
+    "domains": "5690",
+    "ipv4": "5042",
+    "ipv6": "632"
+  },
+  {
+    "tld": "attorney",
+    "domains": "5657",
+    "ipv4": "5105",
+    "ipv6": "334"
+  },
+  {
+    "tld": "doctor",
+    "domains": "5624",
+    "ipv4": "5096",
+    "ipv6": "504"
+  },
+  {
+    "tld": "sexy",
+    "domains": "5608",
+    "ipv4": "4340",
+    "ipv6": "633"
+  },
+  {
+    "tld": "rw",
+    "domains": "5567",
+    "ipv4": "4455",
+    "ipv6": "384"
+  },
+  {
+    "tld": "film",
+    "domains": "5556",
+    "ipv4": "5039",
+    "ipv6": "499"
+  },
+  {
+    "tld": "dvag",
+    "domains": "5421",
+    "ipv4": "5375",
+    "ipv6": "407"
+  },
+  {
+    "tld": "credit",
+    "domains": "5410",
+    "ipv4": "4464",
+    "ipv6": "534"
+  },
+  {
+    "tld": "fish",
+    "domains": "5410",
+    "ipv4": "4497",
+    "ipv6": "723"
+  },
+  {
+    "tld": "rent",
+    "domains": "5361",
+    "ipv4": "4845",
+    "ipv6": "615"
+  },
+  {
+    "tld": "do",
+    "domains": "5276",
+    "ipv4": "1992",
+    "ipv6": "233"
+  },
+  {
+    "tld": "engineer",
+    "domains": "5212",
+    "ipv4": "4124",
+    "ipv6": "670"
+  },
+  {
+    "tld": "lat",
+    "domains": "5193",
+    "ipv4": "3958",
+    "ipv6": "380"
+  },
+  {
+    "tld": "equipment",
+    "domains": "5156",
+    "ipv4": "4469",
+    "ipv6": "613"
+  },
+  {
+    "tld": "toys",
+    "domains": "5154",
+    "ipv4": "4411",
+    "ipv6": "541"
+  },
+  {
+    "tld": "barcelona",
+    "domains": "5098",
+    "ipv4": "3834",
+    "ipv6": "444"
+  },
+  {
+    "tld": "recipes",
+    "domains": "5092",
+    "ipv4": "4475",
+    "ipv6": "443"
+  },
+  {
+    "tld": "audio",
+    "domains": "5069",
+    "ipv4": "4281",
+    "ipv6": "681"
+  },
+  {
+    "tld": "forsale",
+    "domains": "5062",
+    "ipv4": "4281",
+    "ipv6": "463"
+  },
+  {
+    "tld": "auction",
+    "domains": "5025",
+    "ipv4": "4204",
+    "ipv6": "511"
+  },
+  {
+    "tld": "loans",
+    "domains": "4949",
+    "ipv4": "4325",
+    "ipv6": "487"
+  },
+  {
+    "tld": "sc",
+    "domains": "4914",
+    "ipv4": "2270",
+    "ipv6": "204"
+  },
+  {
+    "tld": "ps",
+    "domains": "4890",
+    "ipv4": "1609",
+    "ipv6": "150"
+  },
+  {
+    "tld": "college",
+    "domains": "4856",
+    "ipv4": "4276",
+    "ipv6": "401"
+  },
+  {
+    "tld": "shoes",
+    "domains": "4845",
+    "ipv4": "4205",
+    "ipv6": "492"
+  },
+  {
+    "tld": "eco",
+    "domains": "4816",
+    "ipv4": "4201",
+    "ipv6": "601"
+  },
+  {
+    "tld": "faith",
+    "domains": "4773",
+    "ipv4": "4069",
+    "ipv6": "377"
+  },
+  {
+    "tld": "xn--hxt814e",
+    "domains": "4757",
+    "ipv4": "1407",
+    "ipv6": "266"
+  },
+  {
+    "tld": "hn",
+    "domains": "4742",
+    "ipv4": "1898",
+    "ipv6": "143"
+  },
+  {
+    "tld": "vote",
+    "domains": "4740",
+    "ipv4": "4241",
+    "ipv6": "331"
+  },
+  {
+    "tld": "nagoya",
+    "domains": "4696",
+    "ipv4": "3964",
+    "ipv6": "53"
+  },
+  {
+    "tld": "gl",
+    "domains": "4630",
+    "ipv4": "1724",
+    "ipv6": "209"
+  },
+  {
+    "tld": "build",
+    "domains": "4495",
+    "ipv4": "3961",
+    "ipv6": "312"
+  },
+  {
+    "tld": "reisen",
+    "domains": "4486",
+    "ipv4": "4102",
+    "ipv6": "1331"
+  },
+  {
+    "tld": "yokohama",
+    "domains": "4482",
+    "ipv4": "3706",
+    "ipv6": "66"
+  },
+  {
+    "tld": "jewelry",
+    "domains": "4448",
+    "ipv4": "3979",
+    "ipv6": "356"
+  },
+  {
+    "tld": "garden",
+    "domains": "4323",
+    "ipv4": "3662",
+    "ipv6": "502"
+  },
+  {
+    "tld": "okinawa",
+    "domains": "4290",
+    "ipv4": "3650",
+    "ipv6": "59"
+  },
+  {
+    "tld": "xn--mk1bu44c",
+    "domains": "4266",
+    "ipv4": "2216",
+    "ipv6": "20"
+  },
+  {
+    "tld": "gd",
+    "domains": "4257",
+    "ipv4": "964",
+    "ipv6": "135"
+  },
+  {
+    "tld": "tube",
+    "domains": "4148",
+    "ipv4": "3490",
+    "ipv6": "703"
+  },
+  {
+    "tld": "contractors",
+    "domains": "4110",
+    "ipv4": "3425",
+    "ipv6": "290"
+  },
+  {
+    "tld": "mortgage",
+    "domains": "4095",
+    "ipv4": "3586",
+    "ipv6": "345"
+  },
+  {
+    "tld": "saarland",
+    "domains": "4091",
+    "ipv4": "3527",
+    "ipv6": "1775"
+  },
+  {
+    "tld": "holiday",
+    "domains": "4042",
+    "ipv4": "3538",
+    "ipv6": "707"
+  },
+  {
+    "tld": "gratis",
+    "domains": "3956",
+    "ipv4": "3328",
+    "ipv6": "789"
+  },
+  {
+    "tld": "fj",
+    "domains": "3948",
+    "ipv4": "1948",
+    "ipv6": "120"
+  },
+  {
+    "tld": "schule",
+    "domains": "3927",
+    "ipv4": "3482",
+    "ipv6": "1558"
+  },
+  {
+    "tld": "inc",
+    "domains": "3875",
+    "ipv4": "3230",
+    "ipv6": "93"
+  },
+  {
+    "tld": "catering",
+    "domains": "3860",
+    "ipv4": "3441",
+    "ipv6": "686"
+  },
+  {
+    "tld": "racing",
+    "domains": "3842",
+    "ipv4": "3292",
+    "ipv6": "475"
+  },
+  {
+    "tld": "beauty",
+    "domains": "3835",
+    "ipv4": "3393",
+    "ipv6": "395"
+  },
+  {
+    "tld": "glass",
+    "domains": "3812",
+    "ipv4": "3269",
+    "ipv6": "546"
+  },
+  {
+    "tld": "movie",
+    "domains": "3788",
+    "ipv4": "3118",
+    "ipv6": "325"
+  },
+  {
+    "tld": "tm",
+    "domains": "3788",
+    "ipv4": "945",
+    "ipv6": "93"
+  },
+  {
+    "tld": "ngo",
+    "domains": "3753",
+    "ipv4": "3178",
+    "ipv6": "309"
+  },
+  {
+    "tld": "ong",
+    "domains": "3753",
+    "ipv4": "2035",
+    "ipv6": "144"
+  },
+  {
+    "tld": "salon",
+    "domains": "3752",
+    "ipv4": "3340",
+    "ipv6": "376"
+  },
+  {
+    "tld": "luxe",
+    "domains": "3729",
+    "ipv4": "1473",
+    "ipv6": "190"
+  },
+  {
+    "tld": "fail",
+    "domains": "3727",
+    "ipv4": "2797",
+    "ipv6": "445"
+  },
+  {
+    "tld": "mba",
+    "domains": "3692",
+    "ipv4": "2847",
+    "ipv6": "415"
+  },
+  {
+    "tld": "cleaning",
+    "domains": "3691",
+    "ipv4": "3235",
+    "ipv6": "422"
+  },
+  {
+    "tld": "capetown",
+    "domains": "3676",
+    "ipv4": "2875",
+    "ipv6": "156"
+  },
+  {
+    "tld": "boston",
+    "domains": "3675",
+    "ipv4": "3099",
+    "ipv6": "158"
+  },
+  {
+    "tld": "vacations",
+    "domains": "3652",
+    "ipv4": "3140",
+    "ipv6": "439"
+  },
+  {
+    "tld": "camera",
+    "domains": "3589",
+    "ipv4": "2965",
+    "ipv6": "444"
+  },
+  {
+    "tld": "dating",
+    "domains": "3579",
+    "ipv4": "3074",
+    "ipv6": "555"
+  },
+  {
+    "tld": "associates",
+    "domains": "3576",
+    "ipv4": "2942",
+    "ipv6": "367"
+  },
+  {
+    "tld": "ceo",
+    "domains": "3569",
+    "ipv4": "2742",
+    "ipv6": "259"
+  },
+  {
+    "tld": "baby",
+    "domains": "3557",
+    "ipv4": "3079",
+    "ipv6": "345"
+  },
+  {
+    "tld": "army",
+    "domains": "3547",
+    "ipv4": "2933",
+    "ipv6": "501"
+  },
+  {
+    "tld": "cheap",
+    "domains": "3507",
+    "ipv4": "3017",
+    "ipv6": "502"
+  },
+  {
+    "tld": "gent",
+    "domains": "3483",
+    "ipv4": "2575",
+    "ipv6": "533"
+  },
+  {
+    "tld": "xn--90ae",
+    "domains": "3460",
+    "ipv4": "1170",
+    "ipv6": "86"
+  },
+  {
+    "tld": "poker",
+    "domains": "3452",
+    "ipv4": "2919",
+    "ipv6": "367"
+  },
+  {
+    "tld": "io",
+    "domains": "3421",
+    "ipv4": "2429",
+    "ipv6": "480"
+  },
+  {
+    "tld": "supplies",
+    "domains": "3411",
+    "ipv4": "2872",
+    "ipv6": "380"
+  },
+  {
+    "tld": "furniture",
+    "domains": "3375",
+    "ipv4": "3012",
+    "ipv6": "308"
+  },
+  {
+    "tld": "lgbt",
+    "domains": "3370",
+    "ipv4": "2790",
+    "ipv6": "388"
+  },
+  {
+    "tld": "singles",
+    "domains": "3357",
+    "ipv4": "2899",
+    "ipv6": "418"
+  },
+  {
+    "tld": "courses",
+    "domains": "3349",
+    "ipv4": "2806",
+    "ipv6": "252"
+  },
+  {
+    "tld": "discount",
+    "domains": "3344",
+    "ipv4": "2685",
+    "ipv6": "499"
+  },
+  {
+    "tld": "irish",
+    "domains": "3342",
+    "ipv4": "2862",
+    "ipv6": "452"
+  },
+  {
+    "tld": "sy",
+    "domains": "3332",
+    "ipv4": "1092",
+    "ipv6": "82"
+  },
+  {
+    "tld": "madrid",
+    "domains": "3298",
+    "ipv4": "1994",
+    "ipv6": "435"
+  },
+  {
+    "tld": "claims",
+    "domains": "3288",
+    "ipv4": "2797",
+    "ipv6": "255"
+  },
+  {
+    "tld": "webcam",
+    "domains": "3270",
+    "ipv4": "2772",
+    "ipv6": "468"
+  },
+  {
+    "tld": "ug",
+    "domains": "3258",
+    "ipv4": "988",
+    "ipv6": "44"
+  },
+  {
+    "tld": "cab",
+    "domains": "3255",
+    "ipv4": "2537",
+    "ipv6": "391"
+  },
+  {
+    "tld": "soccer",
+    "domains": "3173",
+    "ipv4": "2673",
+    "ipv6": "301"
+  },
+  {
+    "tld": "xn--tckwe",
+    "domains": "3165",
+    "ipv4": "2642",
+    "ipv6": "66"
+  },
+  {
+    "tld": "how",
+    "domains": "3153",
+    "ipv4": "2000",
+    "ipv6": "387"
+  },
+  {
+    "tld": "dentist",
+    "domains": "3121",
+    "ipv4": "2815",
+    "ipv6": "325"
+  },
+  {
+    "tld": "fo",
+    "domains": "3118",
+    "ipv4": "1939",
+    "ipv6": "165"
+  },
+  {
+    "tld": "mc",
+    "domains": "3062",
+    "ipv4": "1382",
+    "ipv6": "91"
+  },
+  {
+    "tld": "hosting",
+    "domains": "3034",
+    "ipv4": "2177",
+    "ipv6": "341"
+  },
+  {
+    "tld": "sh",
+    "domains": "3029",
+    "ipv4": "1449",
+    "ipv6": "218"
+  },
+  {
+    "tld": "mom",
+    "domains": "3009",
+    "ipv4": "2473",
+    "ipv6": "180"
+  },
+  {
+    "tld": "horse",
+    "domains": "2997",
+    "ipv4": "2671",
+    "ipv6": "410"
+  },
+  {
+    "tld": "exposed",
+    "domains": "2980",
+    "ipv4": "2210",
+    "ipv6": "305"
+  },
+  {
+    "tld": "charity",
+    "domains": "2925",
+    "ipv4": "2134",
+    "ipv6": "228"
+  },
+  {
+    "tld": "plumbing",
+    "domains": "2920",
+    "ipv4": "2592",
+    "ipv6": "226"
+  },
+  {
+    "tld": "cv",
+    "domains": "2909",
+    "ipv4": "1919",
+    "ipv6": "109"
+  },
+  {
+    "tld": "archi",
+    "domains": "2850",
+    "ipv4": "2655",
+    "ipv6": "544"
+  },
+  {
+    "tld": "moda",
+    "domains": "2803",
+    "ipv4": "2323",
+    "ipv6": "386"
+  },
+  {
+    "tld": "voyage",
+    "domains": "2799",
+    "ipv4": "2346",
+    "ipv6": "312"
+  },
+  {
+    "tld": "game",
+    "domains": "2789",
+    "ipv4": "2010",
+    "ipv6": "285"
+  },
+  {
+    "tld": "cooking",
+    "domains": "2770",
+    "ipv4": "1956",
+    "ipv6": "230"
+  },
+  {
+    "tld": "study",
+    "domains": "2767",
+    "ipv4": "2370",
+    "ipv6": "257"
+  },
+  {
+    "tld": "xn--fiq228c5hs",
+    "domains": "2747",
+    "ipv4": "699",
+    "ipv6": "128"
+  },
+  {
+    "tld": "je",
+    "domains": "2730",
+    "ipv4": "895",
+    "ipv6": "89"
+  },
+  {
+    "tld": "radio",
+    "domains": "2685",
+    "ipv4": "1694",
+    "ipv6": "233"
+  },
+  {
+    "tld": "xn--3bst00m",
+    "domains": "2652",
+    "ipv4": "368",
+    "ipv6": "83"
+  },
+  {
+    "tld": "coupons",
+    "domains": "2613",
+    "ipv4": "2143",
+    "ipv6": "260"
+  },
+  {
+    "tld": "property",
+    "domains": "2612",
+    "ipv4": "2138",
+    "ipv6": "268"
+  },
+  {
+    "tld": "degree",
+    "domains": "2582",
+    "ipv4": "2372",
+    "ipv6": "1624"
+  },
+  {
+    "tld": "bj",
+    "domains": "2568",
+    "ipv4": "1871",
+    "ipv6": "176"
+  },
+  {
+    "tld": "xn--80asehdb",
+    "domains": "2552",
+    "ipv4": "2122",
+    "ipv6": "476"
+  },
+  {
+    "tld": "xn--mgberp4a5d4ar",
+    "domains": "2537",
+    "ipv4": "552",
+    "ipv6": "21"
+  },
+  {
+    "tld": "actor",
+    "domains": "2521",
+    "ipv4": "2214",
+    "ipv6": "272"
+  },
+  {
+    "tld": "bi",
+    "domains": "2474",
+    "ipv4": "1100",
+    "ipv6": "148"
+  },
+  {
+    "tld": "alsace",
+    "domains": "2463",
+    "ipv4": "2201",
+    "ipv6": "393"
+  },
+  {
+    "tld": "tienda",
+    "domains": "2403",
+    "ipv4": "2004",
+    "ipv6": "337"
+  },
+  {
+    "tld": "joburg",
+    "domains": "2398",
+    "ipv4": "1712",
+    "ipv6": "87"
+  },
+  {
+    "tld": "tt",
+    "domains": "2374",
+    "ipv4": "959",
+    "ipv6": "52"
+  },
+  {
+    "tld": "rehab",
+    "domains": "2372",
+    "ipv4": "2047",
+    "ipv6": "532"
+  },
+  {
+    "tld": "xn--vhquv",
+    "domains": "2369",
+    "ipv4": "671",
+    "ipv6": "313"
+  },
+  {
+    "tld": "pg",
+    "domains": "2353",
+    "ipv4": "1669",
+    "ipv6": "28"
+  },
+  {
+    "tld": "bank",
+    "domains": "2346",
+    "ipv4": "1954",
+    "ipv6": "190"
+  },
+  {
+    "tld": "gy",
+    "domains": "2335",
+    "ipv4": "1276",
+    "ipv6": "170"
+  },
+  {
+    "tld": "bs",
+    "domains": "2300",
+    "ipv4": "805",
+    "ipv6": "27"
+  },
+  {
+    "tld": "gg",
+    "domains": "2287",
+    "ipv4": "1025",
+    "ipv6": "176"
+  },
+  {
+    "tld": "diamonds",
+    "domains": "2284",
+    "ipv4": "1989",
+    "ipv6": "240"
+  },
+  {
+    "tld": "futbol",
+    "domains": "2265",
+    "ipv4": "1693",
+    "ipv6": "337"
+  },
+  {
+    "tld": "hospital",
+    "domains": "2190",
+    "ipv4": "1715",
+    "ipv6": "146"
+  },
+  {
+    "tld": "tattoo",
+    "domains": "2162",
+    "ipv4": "1940",
+    "ipv6": "325"
+  },
+  {
+    "tld": "lease",
+    "domains": "2148",
+    "ipv4": "1807",
+    "ipv6": "296"
+  },
+  {
+    "tld": "taipei",
+    "domains": "2135",
+    "ipv4": "1020",
+    "ipv6": "126"
+  },
+  {
+    "tld": "cruises",
+    "domains": "2127",
+    "ipv4": "1844",
+    "ipv6": "207"
+  },
+  {
+    "tld": "florist",
+    "domains": "2121",
+    "ipv4": "1901",
+    "ipv6": "244"
+  },
+  {
+    "tld": "corsica",
+    "domains": "2105",
+    "ipv4": "2015",
+    "ipv6": "239"
+  },
+  {
+    "tld": "xn--vuq861b",
+    "domains": "2098",
+    "ipv4": "1702",
+    "ipv6": "1275"
+  },
+  {
+    "tld": "gives",
+    "domains": "2089",
+    "ipv4": "1726",
+    "ipv6": "146"
+  },
+  {
+    "tld": "gp",
+    "domains": "2038",
+    "ipv4": "1530",
+    "ipv6": "142"
+  },
+  {
+    "tld": "luxury",
+    "domains": "2029",
+    "ipv4": "1668",
+    "ipv6": "178"
+  },
+  {
+    "tld": "bargains",
+    "domains": "2022",
+    "ipv4": "1563",
+    "ipv6": "155"
+  },
+  {
+    "tld": "xn--mgbaam7a8h",
+    "domains": "2000",
+    "ipv4": "652",
+    "ipv6": "5"
+  },
+  {
+    "tld": "tg",
+    "domains": "1979",
+    "ipv4": "560",
+    "ipv6": "66"
+  },
+  {
+    "tld": "flights",
+    "domains": "1956",
+    "ipv4": "1548",
+    "ipv6": "252"
+  },
+  {
+    "tld": "hair",
+    "domains": "1952",
+    "ipv4": "1784",
+    "ipv6": "176"
+  },
+  {
+    "tld": "mv",
+    "domains": "1935",
+    "ipv4": "995",
+    "ipv6": "126"
+  },
+  {
+    "tld": "xn--90a3ac",
+    "domains": "1913",
+    "ipv4": "1029",
+    "ipv6": "67"
+  },
+  {
+    "tld": "tennis",
+    "domains": "1909",
+    "ipv4": "1562",
+    "ipv6": "249"
+  },
+  {
+    "tld": "bf",
+    "domains": "1856",
+    "ipv4": "997",
+    "ipv6": "108"
+  },
+  {
+    "tld": "villas",
+    "domains": "1853",
+    "ipv4": "1591",
+    "ipv6": "229"
+  },
+  {
+    "tld": "limo",
+    "domains": "1843",
+    "ipv4": "1688",
+    "ipv6": "236"
+  },
+  {
+    "tld": "durban",
+    "domains": "1828",
+    "ipv4": "1275",
+    "ipv6": "72"
+  },
+  {
+    "tld": "fishing",
+    "domains": "1824",
+    "ipv4": "1630",
+    "ipv6": "172"
+  },
+  {
+    "tld": "audi",
+    "domains": "1817",
+    "ipv4": "1732",
+    "ipv6": "10"
+  },
+  {
+    "tld": "skin",
+    "domains": "1810",
+    "ipv4": "1599",
+    "ipv6": "153"
+  },
+  {
+    "tld": "lc",
+    "domains": "1810",
+    "ipv4": "405",
+    "ipv6": "33"
+  },
+  {
+    "tld": "sl",
+    "domains": "1809",
+    "ipv4": "1155",
+    "ipv6": "93"
+  },
+  {
+    "tld": "surgery",
+    "domains": "1801",
+    "ipv4": "1526",
+    "ipv6": "235"
+  },
+  {
+    "tld": "condos",
+    "domains": "1798",
+    "ipv4": "1579",
+    "ipv6": "124"
+  },
+  {
+    "tld": "trading",
+    "domains": "1750",
+    "ipv4": "1359",
+    "ipv6": "277"
+  },
+  {
+    "tld": "vodka",
+    "domains": "1707",
+    "ipv4": "1480",
+    "ipv6": "175"
+  },
+  {
+    "tld": "organic",
+    "domains": "1665",
+    "ipv4": "1397",
+    "ipv6": "151"
+  },
+  {
+    "tld": "bingo",
+    "domains": "1654",
+    "ipv4": "1352",
+    "ipv6": "211"
+  },
+  {
+    "tld": "accountants",
+    "domains": "1624",
+    "ipv4": "1390",
+    "ipv6": "218"
+  },
+  {
+    "tld": "versicherung",
+    "domains": "1572",
+    "ipv4": "1347",
+    "ipv6": "377"
+  },
+  {
+    "tld": "christmas",
+    "domains": "1569",
+    "ipv4": "1300",
+    "ipv6": "166"
+  },
+  {
+    "tld": "jo",
+    "domains": "1559",
+    "ipv4": "674",
+    "ipv6": "54"
+  },
+  {
+    "tld": "accountant",
+    "domains": "1554",
+    "ipv4": "1229",
+    "ipv6": "190"
+  },
+  {
+    "tld": "observer",
+    "domains": "1546",
+    "ipv4": "1350",
+    "ipv6": "126"
+  },
+  {
+    "tld": "soy",
+    "domains": "1542",
+    "ipv4": "899",
+    "ipv6": "214"
+  },
+  {
+    "tld": "hockey",
+    "domains": "1528",
+    "ipv4": "1273",
+    "ipv6": "156"
+  },
+  {
+    "tld": "mw",
+    "domains": "1519",
+    "ipv4": "1101",
+    "ipv6": "111"
+  },
+  {
+    "tld": "xn--6frz82g",
+    "domains": "1456",
+    "ipv4": "693",
+    "ipv6": "115"
+  },
+  {
+    "tld": "bible",
+    "domains": "1439",
+    "ipv4": "1356",
+    "ipv6": "59"
+  },
+  {
+    "tld": "creditcard",
+    "domains": "1418",
+    "ipv4": "1065",
+    "ipv6": "158"
+  },
+  {
+    "tld": "theater",
+    "domains": "1410",
+    "ipv4": "1213",
+    "ipv6": "268"
+  },
+  {
+    "tld": "sz",
+    "domains": "1396",
+    "ipv4": "733",
+    "ipv6": "2"
+  },
+  {
+    "tld": "gm",
+    "domains": "1390",
+    "ipv4": "645",
+    "ipv6": "90"
+  },
+  {
+    "tld": "markets",
+    "domains": "1380",
+    "ipv4": "991",
+    "ipv6": "138"
+  },
+  {
+    "tld": "allfinanz",
+    "domains": "1378",
+    "ipv4": "1371",
+    "ipv6": "88"
+  },
+  {
+    "tld": "diet",
+    "domains": "1334",
+    "ipv4": "1065",
+    "ipv6": "102"
+  },
+  {
+    "tld": "career",
+    "domains": "1321",
+    "ipv4": "823",
+    "ipv6": "89"
+  },
+  {
+    "tld": "bot",
+    "domains": "1304",
+    "ipv4": "851",
+    "ipv6": "190"
+  },
+  {
+    "tld": "autos",
+    "domains": "1300",
+    "ipv4": "1111",
+    "ipv6": "80"
+  },
+  {
+    "tld": "cricket",
+    "domains": "1291",
+    "ipv4": "1100",
+    "ipv6": "217"
+  },
+  {
+    "tld": "rodeo",
+    "domains": "1272",
+    "ipv4": "1093",
+    "ipv6": "138"
+  },
+  {
+    "tld": "new",
+    "domains": "1263",
+    "ipv4": "1042",
+    "ipv6": "342"
+  },
+  {
+    "tld": "maison",
+    "domains": "1260",
+    "ipv4": "1039",
+    "ipv6": "167"
+  },
+  {
+    "tld": "ao",
+    "domains": "1245",
+    "ipv4": "473",
+    "ipv6": "43"
+  },
+  {
+    "tld": "country",
+    "domains": "1243",
+    "ipv4": "1041",
+    "ipv6": "119"
+  },
+  {
+    "tld": "makeup",
+    "domains": "1225",
+    "ipv4": "1080",
+    "ipv6": "155"
+  },
+  {
+    "tld": "xn--9dbq2a",
+    "domains": "1216",
+    "ipv4": "1069",
+    "ipv6": "32"
+  },
+  {
+    "tld": "sr",
+    "domains": "1203",
+    "ipv4": "423",
+    "ipv6": "17"
+  },
+  {
+    "tld": "broker",
+    "domains": "1183",
+    "ipv4": "911",
+    "ipv6": "139"
+  },
+  {
+    "tld": "desi",
+    "domains": "1177",
+    "ipv4": "882",
+    "ipv6": "124"
+  },
+  {
+    "tld": "boats",
+    "domains": "1166",
+    "ipv4": "908",
+    "ipv6": "57"
+  },
+  {
+    "tld": "flowers",
+    "domains": "1157",
+    "ipv4": "996",
+    "ipv6": "93"
+  },
+  {
+    "tld": "gop",
+    "domains": "1145",
+    "ipv4": "1043",
+    "ipv6": "102"
+  },
+  {
+    "tld": "physio",
+    "domains": "1128",
+    "ipv4": "998",
+    "ipv6": "169"
+  },
+  {
+    "tld": "mq",
+    "domains": "1115",
+    "ipv4": "581",
+    "ipv6": "33"
+  },
+  {
+    "tld": "xn--t60b56a",
+    "domains": "1114",
+    "ipv4": "558",
+    "ipv6": "9"
+  },
+  {
+    "tld": "republican",
+    "domains": "1083",
+    "ipv4": "844",
+    "ipv6": "98"
+  },
+  {
+    "tld": "cg",
+    "domains": "1074",
+    "ipv4": "437",
+    "ipv6": "27"
+  },
+  {
+    "tld": "abudhabi",
+    "domains": "1050",
+    "ipv4": "215",
+    "ipv6": "20"
+  },
+  {
+    "tld": "democrat",
+    "domains": "1034",
+    "ipv4": "792",
+    "ipv6": "110"
+  },
+  {
+    "tld": "reise",
+    "domains": "1021",
+    "ipv4": "815",
+    "ipv6": "223"
+  },
+  {
+    "tld": "sarl",
+    "domains": "1021",
+    "ipv4": "808",
+    "ipv6": "198"
+  },
+  {
+    "tld": "blackfriday",
+    "domains": "998",
+    "ipv4": "709",
+    "ipv6": "64"
+  },
+  {
+    "tld": "gf",
+    "domains": "998",
+    "ipv4": "423",
+    "ipv6": "22"
+  },
+  {
+    "tld": "kyoto",
+    "domains": "997",
+    "ipv4": "747",
+    "ipv6": "13"
+  },
+  {
+    "tld": "tires",
+    "domains": "996",
+    "ipv4": "800",
+    "ipv6": "103"
+  },
+  {
+    "tld": "feedback",
+    "domains": "958",
+    "ipv4": "897",
+    "ipv6": "5"
+  },
+  {
+    "tld": "gripe",
+    "domains": "952",
+    "ipv4": "549",
+    "ipv6": "42"
+  },
+  {
+    "tld": "xn--q9jyb4c",
+    "domains": "945",
+    "ipv4": "447",
+    "ipv6": "64"
+  },
+  {
+    "tld": "navy",
+    "domains": "938",
+    "ipv4": "705",
+    "ipv6": "88"
+  },
+  {
+    "tld": "leclerc",
+    "domains": "909",
+    "ipv4": "907",
+    "ipv6": "2"
+  },
+  {
+    "tld": "xn--c1avg",
+    "domains": "909",
+    "ipv4": "686",
+    "ipv6": "68"
+  },
+  {
+    "tld": "airforce",
+    "domains": "874",
+    "ipv4": "680",
+    "ipv6": "89"
+  },
+  {
+    "tld": "osaka",
+    "domains": "868",
+    "ipv4": "550",
+    "ipv6": "34"
+  },
+  {
+    "tld": "xn--czrs0t",
+    "domains": "859",
+    "ipv4": "447",
+    "ipv6": "11"
+  },
+  {
+    "tld": "tatar",
+    "domains": "848",
+    "ipv4": "687",
+    "ipv6": "109"
+  },
+  {
+    "tld": "museum",
+    "domains": "847",
+    "ipv4": "702",
+    "ipv6": "94"
+  },
+  {
+    "tld": "xn--80aswg",
+    "domains": "834",
+    "ipv4": "618",
+    "ipv6": "116"
+  },
+  {
+    "tld": "viajes",
+    "domains": "821",
+    "ipv4": "593",
+    "ipv6": "72"
+  },
+  {
+    "tld": "cu",
+    "domains": "809",
+    "ipv4": "227",
+    "ipv6": "7"
+  },
+  {
+    "tld": "bb",
+    "domains": "808",
+    "ipv4": "619",
+    "ipv6": "19"
+  },
+  {
+    "tld": "guitars",
+    "domains": "794",
+    "ipv4": "594",
+    "ipv6": "73"
+  },
+  {
+    "tld": "xn--5tzm5g",
+    "domains": "783",
+    "ipv4": "292",
+    "ipv6": "34"
+  },
+  {
+    "tld": "tickets",
+    "domains": "774",
+    "ipv4": "413",
+    "ipv6": "25"
+  },
+  {
+    "tld": "rio",
+    "domains": "757",
+    "ipv4": "613",
+    "ipv6": "156"
+  },
+  {
+    "tld": "cw",
+    "domains": "753",
+    "ipv4": "379",
+    "ipv6": "41"
+  },
+  {
+    "tld": "xn--d1acj3b",
+    "domains": "752",
+    "ipv4": "623",
+    "ipv6": "114"
+  },
+  {
+    "tld": "seat",
+    "domains": "747",
+    "ipv4": "598",
+    "ipv6": "1"
+  },
+  {
+    "tld": "nf",
+    "domains": "738",
+    "ipv4": "246",
+    "ipv6": "11"
+  },
+  {
+    "tld": "mo",
+    "domains": "700",
+    "ipv4": "440",
+    "ipv6": "41"
+  },
+  {
+    "tld": "neustar",
+    "domains": "680",
+    "ipv4": "561",
+    "ipv6": "13"
+  },
+  {
+    "tld": "memorial",
+    "domains": "680",
+    "ipv4": "535",
+    "ipv6": "70"
+  },
+  {
+    "tld": "krd",
+    "domains": "680",
+    "ipv4": "578",
+    "ipv6": "150"
+  },
+  {
+    "tld": "basketball",
+    "domains": "673",
+    "ipv4": "381",
+    "ipv6": "37"
+  },
+  {
+    "tld": "eg",
+    "domains": "670",
+    "ipv4": "303",
+    "ipv6": "25"
+  },
+  {
+    "tld": "xn--pgbs0dh",
+    "domains": "629",
+    "ipv4": "91",
+    "ipv6": "4"
+  },
+  {
+    "tld": "aw",
+    "domains": "616",
+    "ipv4": "241",
+    "ipv6": "14"
+  },
+  {
+    "tld": "yachts",
+    "domains": "610",
+    "ipv4": "517",
+    "ipv6": "55"
+  },
+  {
+    "tld": "xn--rhqv96g",
+    "domains": "609",
+    "ipv4": "229",
+    "ipv6": "10"
+  },
+  {
+    "tld": "td",
+    "domains": "608",
+    "ipv4": "211",
+    "ipv6": "32"
+  },
+  {
+    "tld": "xn--ngbc5azd",
+    "domains": "593",
+    "ipv4": "504",
+    "ipv6": "19"
+  },
+  {
+    "tld": "ltda",
+    "domains": "591",
+    "ipv4": "460",
+    "ipv6": "49"
+  },
+  {
+    "tld": "hiphop",
+    "domains": "579",
+    "ipv4": "455",
+    "ipv6": "67"
+  },
+  {
+    "tld": "crs",
+    "domains": "575",
+    "ipv4": "394",
+    "ipv6": "1"
+  },
+  {
+    "tld": "ryukyu",
+    "domains": "575",
+    "ipv4": "416",
+    "ipv6": "13"
+  },
+  {
+    "tld": "pharmacy",
+    "domains": "571",
+    "ipv4": "524",
+    "ipv6": "21"
+  },
+  {
+    "tld": "juegos",
+    "domains": "557",
+    "ipv4": "446",
+    "ipv6": "18"
+  },
+  {
+    "tld": "abogado",
+    "domains": "556",
+    "ipv4": "300",
+    "ipv6": "34"
+  },
+  {
+    "tld": "xn--mgbab2bd",
+    "domains": "550",
+    "ipv4": "144",
+    "ipv6": "4"
+  },
+  {
+    "tld": "xn--54b7fta0cc",
+    "domains": "532",
+    "ipv4": "182",
+    "ipv6": "18"
+  },
+  {
+    "tld": "creditunion",
+    "domains": "501",
+    "ipv4": "419",
+    "ipv6": "17"
+  },
+  {
+    "tld": "motorcycles",
+    "domains": "501",
+    "ipv4": "436",
+    "ipv6": "104"
+  },
+  {
+    "tld": "storage",
+    "domains": "485",
+    "ipv4": "310",
+    "ipv6": "30"
+  },
+  {
+    "tld": "shiksha",
+    "domains": "477",
+    "ipv4": "368",
+    "ipv6": "20"
+  },
+  {
+    "tld": "auto",
+    "domains": "442",
+    "ipv4": "317",
+    "ipv6": "36"
+  },
+  {
+    "tld": "forex",
+    "domains": "431",
+    "ipv4": "327",
+    "ipv6": "44"
+  },
+  {
+    "tld": "rugby",
+    "domains": "424",
+    "ipv4": "307",
+    "ipv6": "9"
+  },
+  {
+    "tld": "security",
+    "domains": "406",
+    "ipv4": "246",
+    "ipv6": "34"
+  },
+  {
+    "tld": "compare",
+    "domains": "405",
+    "ipv4": "219",
+    "ipv6": "13"
+  },
+  {
+    "tld": "voto",
+    "domains": "396",
+    "ipv4": "322",
+    "ipv6": "37"
+  },
+  {
+    "tld": "ni",
+    "domains": "395",
+    "ipv4": "161",
+    "ipv6": "17"
+  },
+  {
+    "tld": "ga",
+    "domains": "350",
+    "ipv4": "104",
+    "ipv6": "13"
+  },
+  {
+    "tld": "aco",
+    "domains": "343",
+    "ipv4": "316",
+    "ipv6": "1"
+  },
+  {
+    "tld": "xn--xhq521b",
+    "domains": "342",
+    "ipv4": "42",
+    "ipv6": "6"
+  },
+  {
+    "tld": "select",
+    "domains": "332",
+    "ipv4": "163",
+    "ipv6": "10"
+  },
+  {
+    "tld": "forum",
+    "domains": "322",
+    "ipv4": "162",
+    "ipv6": "15"
+  },
+  {
+    "tld": "car",
+    "domains": "319",
+    "ipv4": "202",
+    "ipv6": "16"
+  },
+  {
+    "tld": "cars",
+    "domains": "305",
+    "ipv4": "199",
+    "ipv6": "16"
+  },
+  {
+    "tld": "bnpparibas",
+    "domains": "304",
+    "ipv4": "157",
+    "ipv6": "41"
+  },
+  {
+    "tld": "xn--nqv7f",
+    "domains": "304",
+    "ipv4": "127",
+    "ipv6": "10"
+  },
+  {
+    "tld": "pf",
+    "domains": "289",
+    "ipv4": "131",
+    "ipv6": "10"
+  },
+  {
+    "tld": "ki",
+    "domains": "283",
+    "ipv4": "104",
+    "ipv6": "9"
+  },
+  {
+    "tld": "broadway",
+    "domains": "283",
+    "ipv4": "281",
+    "ipv6": "0"
+  },
+  {
+    "tld": "abbott",
+    "domains": "282",
+    "ipv4": "204",
+    "ipv6": "0"
+  },
+  {
+    "tld": "qpon",
+    "domains": "279",
+    "ipv4": "157",
+    "ipv6": "17"
+  },
+  {
+    "tld": "moi",
+    "domains": "274",
+    "ipv4": "151",
+    "ipv6": "25"
+  },
+  {
+    "tld": "schwarz",
+    "domains": "265",
+    "ipv4": "245",
+    "ipv6": "3"
+  },
+  {
+    "tld": "hiv",
+    "domains": "253",
+    "ipv4": "178",
+    "ipv6": "31"
+  },
+  {
+    "tld": "lamborghini",
+    "domains": "241",
+    "ipv4": "230",
+    "ipv6": "5"
+  },
+  {
+    "tld": "xn--unup4y",
+    "domains": "230",
+    "ipv4": "73",
+    "ipv6": "3"
+  },
+  {
+    "tld": "na",
+    "domains": "226",
+    "ipv4": "56",
+    "ipv6": "5"
+  },
+  {
+    "tld": "xn--fjq720a",
+    "domains": "221",
+    "ipv4": "53",
+    "ipv6": "3"
+  },
+  {
+    "tld": "goog",
+    "domains": "204",
+    "ipv4": "73",
+    "ipv6": "46"
+  },
+  {
+    "tld": "int",
+    "domains": "198",
+    "ipv4": "145",
+    "ipv6": "17"
+  },
+  {
+    "tld": "xn--1qqw23a",
+    "domains": "197",
+    "ipv4": "34",
+    "ipv6": "4"
+  },
+  {
+    "tld": "bradesco",
+    "domains": "196",
+    "ipv4": "177",
+    "ipv6": "16"
+  },
+  {
+    "tld": "insurance",
+    "domains": "186",
+    "ipv4": "106",
+    "ipv6": "18"
+  },
+  {
+    "tld": "mini",
+    "domains": "182",
+    "ipv4": "157",
+    "ipv6": "1"
+  },
+  {
+    "tld": "man",
+    "domains": "175",
+    "ipv4": "149",
+    "ipv6": "2"
+  },
+  {
+    "tld": "stockholm",
+    "domains": "171",
+    "ipv4": "160",
+    "ipv6": "35"
+  },
+  {
+    "tld": "weber",
+    "domains": "159",
+    "ipv4": "155",
+    "ipv6": "7"
+  },
+  {
+    "tld": "zuerich",
+    "domains": "158",
+    "ipv4": "58",
+    "ipv6": "47"
+  },
+  {
+    "tld": "lr",
+    "domains": "157",
+    "ipv4": "67",
+    "ipv6": "1"
+  },
+  {
+    "tld": "fox",
+    "domains": "155",
+    "ipv4": "90",
+    "ipv6": "20"
+  },
+  {
+    "tld": "citic",
+    "domains": "153",
+    "ipv4": "68",
+    "ipv6": "0"
+  },
+  {
+    "tld": "ne",
+    "domains": "149",
+    "ipv4": "40",
+    "ipv6": "4"
+  },
+  {
+    "tld": "iq",
+    "domains": "149",
+    "ipv4": "63",
+    "ipv6": "15"
+  },
+  {
+    "tld": "xn--cck2b3b",
+    "domains": "148",
+    "ipv4": "58",
+    "ipv6": "4"
+  },
+  {
+    "tld": "globo",
+    "domains": "137",
+    "ipv4": "129",
+    "ipv6": "6"
+  },
+  {
+    "tld": "xn--4gbrim",
+    "domains": "135",
+    "ipv4": "77",
+    "ipv6": "1"
+  },
+  {
+    "tld": "nra",
+    "domains": "133",
+    "ipv4": "6",
+    "ipv6": "0"
+  },
+  {
+    "tld": "barclays",
+    "domains": "131",
+    "ipv4": "35",
+    "ipv6": "0"
+  },
+  {
+    "tld": "theatre",
+    "domains": "131",
+    "ipv4": "84",
+    "ipv6": "8"
+  },
+  {
+    "tld": "dealer",
+    "domains": "128",
+    "ipv4": "50",
+    "ipv6": "4"
+  },
+  {
+    "tld": "bmw",
+    "domains": "125",
+    "ipv4": "103",
+    "ipv6": "3"
+  },
+  {
+    "tld": "ye",
+    "domains": "125",
+    "ipv4": "45",
+    "ipv6": "3"
+  },
+  {
+    "tld": "jnj",
+    "domains": "119",
+    "ipv4": "9",
+    "ipv6": "1"
+  },
+  {
+    "tld": "ml",
+    "domains": "117",
+    "ipv4": "33",
+    "ipv6": "4"
+  },
+  {
+    "tld": "stada",
+    "domains": "117",
+    "ipv4": "109",
+    "ipv6": "92"
+  },
+  {
+    "tld": "qa",
+    "domains": "115",
+    "ipv4": "55",
+    "ipv6": "1"
+  },
+  {
+    "tld": "xn--1ck2e1b",
+    "domains": "111",
+    "ipv4": "42",
+    "ipv6": "0"
+  },
+  {
+    "tld": "protection",
+    "domains": "110",
+    "ipv4": "52",
+    "ipv6": "2"
+  },
+  {
+    "tld": "aws",
+    "domains": "109",
+    "ipv4": "49",
+    "ipv6": "5"
+  },
+  {
+    "tld": "google",
+    "domains": "107",
+    "ipv4": "71",
+    "ipv6": "31"
+  },
+  {
+    "tld": "total",
+    "domains": "105",
+    "ipv4": "66",
+    "ipv6": "2"
+  },
+  {
+    "tld": "rich",
+    "domains": "97",
+    "ipv4": "60",
+    "ipv6": "2"
+  },
+  {
+    "tld": "erni",
+    "domains": "97",
+    "ipv4": "86",
+    "ipv6": "82"
+  },
+  {
+    "tld": "xn--mgbayh7gpa",
+    "domains": "96",
+    "ipv4": "37",
+    "ipv6": "1"
+  },
+  {
+    "tld": "saxo",
+    "domains": "93",
+    "ipv4": "61",
+    "ipv6": "0"
+  },
+  {
+    "tld": "reit",
+    "domains": "93",
+    "ipv4": "65",
+    "ipv6": "1"
+  },
+  {
+    "tld": "afl",
+    "domains": "91",
+    "ipv4": "77",
+    "ipv6": "0"
+  },
+  {
+    "tld": "sbi",
+    "domains": "91",
+    "ipv4": "75",
+    "ipv6": "25"
+  },
+  {
+    "tld": "teva",
+    "domains": "86",
+    "ipv4": "68",
+    "ipv6": "0"
+  },
+  {
+    "tld": "cancerresearch",
+    "domains": "86",
+    "ipv4": "11",
+    "ipv6": "0"
+  },
+  {
+    "tld": "edeka",
+    "domains": "83",
+    "ipv4": "72",
+    "ipv6": "5"
+  },
+  {
+    "tld": "yandex",
+    "domains": "79",
+    "ipv4": "55",
+    "ipv6": "50"
+  },
+  {
+    "tld": "pru",
+    "domains": "79",
+    "ipv4": "77",
+    "ipv6": "0"
+  },
+  {
+    "tld": "cern",
+    "domains": "78",
+    "ipv4": "74",
+    "ipv6": "70"
+  },
+  {
+    "tld": "xn--i1b6b1a6a2e",
+    "domains": "73",
+    "ipv4": "56",
+    "ipv6": "4"
+  },
+  {
+    "tld": "cba",
+    "domains": "73",
+    "ipv4": "17",
+    "ipv6": "1"
+  },
+  {
+    "tld": "deloitte",
+    "domains": "72",
+    "ipv4": "40",
+    "ipv6": "12"
+  },
+  {
+    "tld": "xn--fct429k",
+    "domains": "71",
+    "ipv4": "24",
+    "ipv6": "0"
+  },
+  {
+    "tld": "auspost",
+    "domains": "70",
+    "ipv4": "45",
+    "ipv6": "0"
+  },
+  {
+    "tld": "prudential",
+    "domains": "69",
+    "ipv4": "68",
+    "ipv6": "0"
+  },
+  {
+    "tld": "xn--zfr164b",
+    "domains": "67",
+    "ipv4": "63",
+    "ipv6": "3"
+  },
+  {
+    "tld": "xn--gckr3f0f",
+    "domains": "67",
+    "ipv4": "30",
+    "ipv6": "2"
+  },
+  {
+    "tld": "dhl",
+    "domains": "66",
+    "ipv4": "53",
+    "ipv6": "0"
+  },
+  {
+    "tld": "lotto",
+    "domains": "64",
+    "ipv4": "50",
+    "ipv6": "5"
+  },
+  {
+    "tld": "monash",
+    "domains": "64",
+    "ipv4": "56",
+    "ipv6": "6"
+  },
+  {
+    "tld": "fage",
+    "domains": "63",
+    "ipv4": "62",
+    "ipv6": "0"
+  },
+  {
+    "tld": "bn",
+    "domains": "61",
+    "ipv4": "29",
+    "ipv6": "4"
+  },
+  {
+    "tld": "xn--mgbca7dzdo",
+    "domains": "61",
+    "ipv4": "13",
+    "ipv6": "0"
+  },
+  {
+    "tld": "xn--jvr189m",
+    "domains": "53",
+    "ipv4": "25",
+    "ipv6": "4"
+  },
+  {
+    "tld": "trust",
+    "domains": "53",
+    "ipv4": "12",
+    "ipv6": "2"
+  },
+  {
+    "tld": "hoteles",
+    "domains": "52",
+    "ipv4": "22",
+    "ipv6": "0"
+  },
+  {
+    "tld": "uol",
+    "domains": "50",
+    "ipv4": "48",
+    "ipv6": "9"
+  },
+  {
+    "tld": "meet",
+    "domains": "50",
+    "ipv4": "48",
+    "ipv6": "7"
+  },
+  {
+    "tld": "firmdale",
+    "domains": "49",
+    "ipv4": "48",
+    "ipv6": "0"
+  },
+  {
+    "tld": "aig",
+    "domains": "49",
+    "ipv4": "14",
+    "ipv6": "0"
+  },
+  {
+    "tld": "lidl",
+    "domains": "46",
+    "ipv4": "41",
+    "ipv6": "0"
+  },
+  {
+    "tld": "smart",
+    "domains": "45",
+    "ipv4": "26",
+    "ipv6": "0"
+  },
+  {
+    "tld": "kfh",
+    "domains": "44",
+    "ipv4": "24",
+    "ipv6": "0"
+  },
+  {
+    "tld": "xn--bck1b9a5dre4c",
+    "domains": "43",
+    "ipv4": "25",
+    "ipv6": "0"
+  },
+  {
+    "tld": "xn--45q11c",
+    "domains": "43",
+    "ipv4": "8",
+    "ipv6": "4"
+  },
+  {
+    "tld": "chase",
+    "domains": "43",
+    "ipv4": "11",
+    "ipv6": "0"
+  },
+  {
+    "tld": "fresenius",
+    "domains": "42",
+    "ipv4": "40",
+    "ipv6": "1"
+  },
+  {
+    "tld": "pictet",
+    "domains": "42",
+    "ipv4": "33",
+    "ipv6": "1"
+  },
+  {
+    "tld": "ipiranga",
+    "domains": "40",
+    "ipv4": "12",
+    "ipv6": "0"
+  },
+  {
+    "tld": "mlb",
+    "domains": "40",
+    "ipv4": "35",
+    "ipv6": "0"
+  },
+  {
+    "tld": "vivo",
+    "domains": "38",
+    "ipv4": "6",
+    "ipv6": "0"
+  },
+  {
+    "tld": "axa",
+    "domains": "38",
+    "ipv4": "17",
+    "ipv6": "0"
+  },
+  {
+    "tld": "scb",
+    "domains": "37",
+    "ipv4": "20",
+    "ipv6": "0"
+  },
+  {
+    "tld": "schmidt",
+    "domains": "37",
+    "ipv4": "25",
+    "ipv6": "0"
+  },
+  {
+    "tld": "statebank",
+    "domains": "35",
+    "ipv4": "28",
+    "ipv6": "2"
+  },
+  {
+    "tld": "tui",
+    "domains": "35",
+    "ipv4": "10",
+    "ipv6": "3"
+  },
+  {
+    "tld": "jpmorgan",
+    "domains": "35",
+    "ipv4": "9",
+    "ipv6": "0"
+  },
+  {
+    "tld": "foo",
+    "domains": "35",
+    "ipv4": "18",
+    "ipv6": "16"
+  },
+  {
+    "tld": "xn--rovu88b",
+    "domains": "34",
+    "ipv4": "20",
+    "ipv6": "0"
+  },
+  {
+    "tld": "abbvie",
+    "domains": "33",
+    "ipv4": "4",
+    "ipv6": "0"
+  },
+  {
+    "tld": "anz",
+    "domains": "32",
+    "ipv4": "27",
+    "ipv6": "0"
+  },
+  {
+    "tld": "sandvik",
+    "domains": "32",
+    "ipv4": "25",
+    "ipv6": "1"
+  },
+  {
+    "tld": "statefarm",
+    "domains": "32",
+    "ipv4": "21",
+    "ipv6": "0"
+  },
+  {
+    "tld": "apple",
+    "domains": "30",
+    "ipv4": "18",
+    "ipv6": "1"
+  },
+  {
+    "tld": "ikano",
+    "domains": "28",
+    "ipv4": "26",
+    "ipv6": "5"
+  },
+  {
+    "tld": "bentley",
+    "domains": "26",
+    "ipv4": "23",
+    "ipv6": "5"
+  },
+  {
+    "tld": "barclaycard",
+    "domains": "26",
+    "ipv4": "7",
+    "ipv6": "0"
+  },
+  {
+    "tld": "med",
+    "domains": "26",
+    "ipv4": "8",
+    "ipv6": "0"
+  },
+  {
+    "tld": "xn--nyqy26a",
+    "domains": "25",
+    "ipv4": "7",
+    "ipv6": "0"
+  },
+  {
+    "tld": "dell",
+    "domains": "25",
+    "ipv4": "20",
+    "ipv6": "0"
+  },
+  {
+    "tld": "latrobe",
+    "domains": "25",
+    "ipv4": "22",
+    "ipv6": "2"
+  },
+  {
+    "tld": "godaddy",
+    "domains": "24",
+    "ipv4": "18",
+    "ipv6": "2"
+  },
+  {
+    "tld": "hyatt",
+    "domains": "23",
+    "ipv4": "21",
+    "ipv6": "0"
+  },
+  {
+    "tld": "cisco",
+    "domains": "23",
+    "ipv4": "20",
+    "ipv6": "0"
+  },
+  {
+    "tld": "allstate",
+    "domains": "22",
+    "ipv4": "20",
+    "ipv6": "0"
+  },
+  {
+    "tld": "williamhill",
+    "domains": "22",
+    "ipv4": "15",
+    "ipv6": "0"
+  },
+  {
+    "tld": "philips",
+    "domains": "22",
+    "ipv4": "20",
+    "ipv6": "0"
+  },
+  {
+    "tld": "walter",
+    "domains": "22",
+    "ipv4": "16",
+    "ipv6": "0"
+  },
+  {
+    "tld": "wed",
+    "domains": "22",
+    "ipv4": "5",
+    "ipv6": "2"
+  },
+  {
+    "tld": "sew",
+    "domains": "20",
+    "ipv4": "11",
+    "ipv6": "0"
+  },
+  {
+    "tld": "locus",
+    "domains": "20",
+    "ipv4": "14",
+    "ipv6": "0"
+  },
+  {
+    "tld": "au",
+    "domains": "20",
+    "ipv4": "2",
+    "ipv6": "1"
+  },
+  {
+    "tld": "hsbc",
+    "domains": "20",
+    "ipv4": "13",
+    "ipv6": "1"
+  },
+  {
+    "tld": "gle",
+    "domains": "19",
+    "ipv4": "15",
+    "ipv6": "8"
+  },
+  {
+    "tld": "vig",
+    "domains": "19",
+    "ipv4": "16",
+    "ipv6": "5"
+  },
+  {
+    "tld": "schaeffler",
+    "domains": "19",
+    "ipv4": "10",
+    "ipv6": "0"
+  },
+  {
+    "tld": "woodside",
+    "domains": "19",
+    "ipv4": "9",
+    "ipv6": "0"
+  },
+  {
+    "tld": "praxi",
+    "domains": "18",
+    "ipv4": "17",
+    "ipv6": "0"
+  },
+  {
+    "tld": "hitachi",
+    "domains": "18",
+    "ipv4": "13",
+    "ipv6": "1"
+  },
+  {
+    "tld": "pfizer",
+    "domains": "18",
+    "ipv4": "12",
+    "ipv6": "9"
+  },
+  {
+    "tld": "marriott",
+    "domains": "17",
+    "ipv4": "2",
+    "ipv6": "0"
+  },
+  {
+    "tld": "gea",
+    "domains": "17",
+    "ipv4": "6",
+    "ipv6": "1"
+  },
+  {
+    "tld": "csc",
+    "domains": "16",
+    "ipv4": "5",
+    "ipv6": "1"
+  },
+  {
+    "tld": "kpmg",
+    "domains": "16",
+    "ipv4": "14",
+    "ipv6": "0"
+  },
+  {
+    "tld": "channel",
+    "domains": "15",
+    "ipv4": "14",
+    "ipv6": "14"
+  },
+  {
+    "tld": "ntt",
+    "domains": "15",
+    "ipv4": "6",
+    "ipv6": "0"
+  },
+  {
+    "tld": "cuisinella",
+    "domains": "15",
+    "ipv4": "12",
+    "ipv6": "0"
+  },
+  {
+    "tld": "itv",
+    "domains": "15",
+    "ipv4": "14",
+    "ipv6": "0"
+  },
+  {
+    "tld": "bbva",
+    "domains": "14",
+    "ipv4": "2",
+    "ipv6": "0"
+  },
+  {
+    "tld": "catholic",
+    "domains": "13",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "ismaili",
+    "domains": "13",
+    "ipv4": "11",
+    "ipv6": "3"
+  },
+  {
+    "tld": "arpa",
+    "domains": "12",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "lanxess",
+    "domains": "12",
+    "ipv4": "11",
+    "ipv6": "0"
+  },
+  {
+    "tld": "gucci",
+    "domains": "12",
+    "ipv4": "5",
+    "ipv6": "0"
+  },
+  {
+    "tld": "toyota",
+    "domains": "12",
+    "ipv4": "9",
+    "ipv6": "1"
+  },
+  {
+    "tld": "jll",
+    "domains": "12",
+    "ipv4": "9",
+    "ipv6": "0"
+  },
+  {
+    "tld": "xn--ngbe9e0a",
+    "domains": "11",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "youtube",
+    "domains": "11",
+    "ipv4": "9",
+    "ipv6": "7"
+  },
+  {
+    "tld": "cbs",
+    "domains": "11",
+    "ipv4": "7",
+    "ipv6": "0"
+  },
+  {
+    "tld": "dubai",
+    "domains": "11",
+    "ipv4": "9",
+    "ipv6": "0"
+  },
+  {
+    "tld": "nowruz",
+    "domains": "11",
+    "ipv4": "6",
+    "ipv6": "2"
+  },
+  {
+    "tld": "extraspace",
+    "domains": "11",
+    "ipv4": "4",
+    "ipv6": "1"
+  },
+  {
+    "tld": "emerck",
+    "domains": "11",
+    "ipv4": "10",
+    "ipv6": "9"
+  },
+  {
+    "tld": "xn--kcrx77d1x4a",
+    "domains": "10",
+    "ipv4": "8",
+    "ipv6": "0"
+  },
+  {
+    "tld": "dabur",
+    "domains": "10",
+    "ipv4": "4",
+    "ipv6": "1"
+  },
+  {
+    "tld": "stc",
+    "domains": "10",
+    "ipv4": "7",
+    "ipv6": "0"
+  },
+  {
+    "tld": "jio",
+    "domains": "10",
+    "ipv4": "6",
+    "ipv6": "2"
+  },
+  {
+    "tld": "amazon",
+    "domains": "10",
+    "ipv4": "7",
+    "ipv6": "0"
+  },
+  {
+    "tld": "temasek",
+    "domains": "10",
+    "ipv4": "6",
+    "ipv6": "0"
+  },
+  {
+    "tld": "redstone",
+    "domains": "9",
+    "ipv4": "6",
+    "ipv6": "0"
+  },
+  {
+    "tld": "swatch",
+    "domains": "9",
+    "ipv4": "8",
+    "ipv6": "1"
+  },
+  {
+    "tld": "ally",
+    "domains": "8",
+    "ipv4": "2",
+    "ipv6": "0"
+  },
+  {
+    "tld": "bauhaus",
+    "domains": "8",
+    "ipv4": "4",
+    "ipv6": "2"
+  },
+  {
+    "tld": "kinder",
+    "domains": "8",
+    "ipv4": "7",
+    "ipv6": "1"
+  },
+  {
+    "tld": "amex",
+    "domains": "8",
+    "ipv4": "5",
+    "ipv6": "0"
+  },
+  {
+    "tld": "office",
+    "domains": "8",
+    "ipv4": "4",
+    "ipv6": "0"
+  },
+  {
+    "tld": "chintai",
+    "domains": "8",
+    "ipv4": "5",
+    "ipv6": "0"
+  },
+  {
+    "tld": "skype",
+    "domains": "8",
+    "ipv4": "6",
+    "ipv6": "0"
+  },
+  {
+    "tld": "sandvikcoromant",
+    "domains": "8",
+    "ipv4": "6",
+    "ipv6": "0"
+  },
+  {
+    "tld": "brother",
+    "domains": "8",
+    "ipv4": "5",
+    "ipv6": "1"
+  },
+  {
+    "tld": "xn--efvy88h",
+    "domains": "8",
+    "ipv4": "0",
+    "ipv6": "0"
+  },
+  {
+    "tld": "aetna",
+    "domains": "8",
+    "ipv4": "6",
+    "ipv6": "0"
+  },
+  {
+    "tld": "bugatti",
+    "domains": "8",
+    "ipv4": "6",
+    "ipv6": "0"
+  },
+  {
+    "tld": "xn--30rr7y",
+    "domains": "8",
+    "ipv4": "0",
+    "ipv6": "0"
+  },
+  {
+    "tld": "sfr",
+    "domains": "8",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "politie",
+    "domains": "8",
+    "ipv4": "4",
+    "ipv6": "2"
+  },
+  {
+    "tld": "bbc",
+    "domains": "7",
+    "ipv4": "2",
+    "ipv6": "0"
+  },
+  {
+    "tld": "aeg",
+    "domains": "7",
+    "ipv4": "4",
+    "ipv6": "2"
+  },
+  {
+    "tld": "wme",
+    "domains": "7",
+    "ipv4": "4",
+    "ipv6": "0"
+  },
+  {
+    "tld": "ferrero",
+    "domains": "7",
+    "ipv4": "4",
+    "ipv6": "0"
+  },
+  {
+    "tld": "mattel",
+    "domains": "7",
+    "ipv4": "4",
+    "ipv6": "0"
+  },
+  {
+    "tld": "ieee",
+    "domains": "7",
+    "ipv4": "6",
+    "ipv6": "0"
+  },
+  {
+    "tld": "ford",
+    "domains": "7",
+    "ipv4": "6",
+    "ipv6": "2"
+  },
+  {
+    "tld": "seven",
+    "domains": "7",
+    "ipv4": "5",
+    "ipv6": "0"
+  },
+  {
+    "tld": "sony",
+    "domains": "7",
+    "ipv4": "4",
+    "ipv6": "2"
+  },
+  {
+    "tld": "samsung",
+    "domains": "7",
+    "ipv4": "2",
+    "ipv6": "2"
+  },
+  {
+    "tld": "mtn",
+    "domains": "6",
+    "ipv4": "3",
+    "ipv6": "2"
+  },
+  {
+    "tld": "cbn",
+    "domains": "6",
+    "ipv4": "2",
+    "ipv6": "0"
+  },
+  {
+    "tld": "softbank",
+    "domains": "6",
+    "ipv4": "3",
+    "ipv6": "1"
+  },
+  {
+    "tld": "frogans",
+    "domains": "6",
+    "ipv4": "3",
+    "ipv6": "2"
+  },
+  {
+    "tld": "hermes",
+    "domains": "6",
+    "ipv4": "4",
+    "ipv6": "0"
+  },
+  {
+    "tld": "lilly",
+    "domains": "6",
+    "ipv4": "3",
+    "ipv6": "0"
+  },
+  {
+    "tld": "adac",
+    "domains": "6",
+    "ipv4": "4",
+    "ipv6": "0"
+  },
+  {
+    "tld": "java",
+    "domains": "6",
+    "ipv4": "5",
+    "ipv6": "4"
+  },
+  {
+    "tld": "netbank",
+    "domains": "6",
+    "ipv4": "2",
+    "ipv6": "0"
+  },
+  {
+    "tld": "volkswagen",
+    "domains": "5",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "citi",
+    "domains": "5",
+    "ipv4": "4",
+    "ipv6": "0"
+  },
+  {
+    "tld": "grainger",
+    "domains": "5",
+    "ipv4": "4",
+    "ipv6": "0"
+  },
+  {
+    "tld": "zara",
+    "domains": "5",
+    "ipv4": "4",
+    "ipv6": "2"
+  },
+  {
+    "tld": "jprs",
+    "domains": "5",
+    "ipv4": "2",
+    "ipv6": "2"
+  },
+  {
+    "tld": "americanexpress",
+    "domains": "5",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "able",
+    "domains": "5",
+    "ipv4": "4",
+    "ipv6": "0"
+  },
+  {
+    "tld": "nokia",
+    "domains": "5",
+    "ipv4": "3",
+    "ipv6": "0"
+  },
+  {
+    "tld": "commbank",
+    "domains": "5",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "gmail",
+    "domains": "5",
+    "ipv4": "2",
+    "ipv6": "2"
+  },
+  {
+    "tld": "fairwinds",
+    "domains": "5",
+    "ipv4": "3",
+    "ipv6": "1"
+  },
+  {
+    "tld": "natura",
+    "domains": "5",
+    "ipv4": "3",
+    "ipv6": "1"
+  },
+  {
+    "tld": "dupont",
+    "domains": "5",
+    "ipv4": "4",
+    "ipv6": "0"
+  },
+  {
+    "tld": "travelers",
+    "domains": "4",
+    "ipv4": "3",
+    "ipv6": "0"
+  },
+  {
+    "tld": "mit",
+    "domains": "4",
+    "ipv4": "3",
+    "ipv6": "0"
+  },
+  {
+    "tld": "mtr",
+    "domains": "4",
+    "ipv4": "1",
+    "ipv6": "1"
+  },
+  {
+    "tld": "pwc",
+    "domains": "4",
+    "ipv4": "3",
+    "ipv6": "0"
+  },
+  {
+    "tld": "4",
+    "domains": "2",
+    "ipv4": "2",
+    "ipv6": "4"
+  },
+  {
+    "tld": "va",
+    "domains": "4",
+    "ipv4": "0",
+    "ipv6": "1"
+  },
+  {
+    "tld": "mutual",
+    "domains": "4",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "here",
+    "domains": "4",
+    "ipv4": "3",
+    "ipv6": "3"
+  },
+  {
+    "tld": "imamat",
+    "domains": "4",
+    "ipv4": "2",
+    "ipv6": "1"
+  },
+  {
+    "tld": "analytics",
+    "domains": "4",
+    "ipv4": "3",
+    "ipv6": "0"
+  },
+  {
+    "tld": "aaa",
+    "domains": "4",
+    "ipv4": "3",
+    "ipv6": "0"
+  },
+  {
+    "tld": "northwesternmutual",
+    "domains": "4",
+    "ipv4": "2",
+    "ipv6": "0"
+  },
+  {
+    "tld": "ping",
+    "domains": "4",
+    "ipv4": "3",
+    "ipv6": "0"
+  },
+  {
+    "tld": "ses",
+    "domains": "4",
+    "ipv4": "3",
+    "ipv6": "1"
+  },
+  {
+    "tld": "pohl",
+    "domains": "4",
+    "ipv4": "2",
+    "ipv6": "2"
+  },
+  {
+    "tld": "jmp",
+    "domains": "4",
+    "ipv4": "3",
+    "ipv6": "0"
+  },
+  {
+    "tld": "amica",
+    "domains": "4",
+    "ipv4": "3",
+    "ipv6": "0"
+  },
+  {
+    "tld": "meme",
+    "domains": "3",
+    "ipv4": "2",
+    "ipv6": "2"
+  },
+  {
+    "tld": "target",
+    "domains": "3",
+    "ipv4": "2",
+    "ipv6": "0"
+  },
+  {
+    "tld": "dad",
+    "domains": "3",
+    "ipv4": "2",
+    "ipv6": "2"
+  },
+  {
+    "tld": "xn--mgba7c0bbn0a",
+    "domains": "3",
+    "ipv4": "2",
+    "ipv6": "0"
+  },
+  {
+    "tld": "ing",
+    "domains": "3",
+    "ipv4": "2",
+    "ipv6": "2"
+  },
+  {
+    "tld": "ads",
+    "domains": "3",
+    "ipv4": "2",
+    "ipv6": "2"
+  },
+  {
+    "tld": "travelersinsurance",
+    "domains": "3",
+    "ipv4": "2",
+    "ipv6": "0"
+  },
+  {
+    "tld": "xn--vermgensberater-ctb",
+    "domains": "3",
+    "ipv4": "1",
+    "ipv6": "1"
+  },
+  {
+    "tld": "ftr",
+    "domains": "3",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "boo",
+    "domains": "3",
+    "ipv4": "2",
+    "ipv6": "2"
+  },
+  {
+    "tld": "rocher",
+    "domains": "3",
+    "ipv4": "2",
+    "ipv6": "0"
+  },
+  {
+    "tld": "eat",
+    "domains": "3",
+    "ipv4": "2",
+    "ipv6": "2"
+  },
+  {
+    "tld": "rsvp",
+    "domains": "3",
+    "ipv4": "2",
+    "ipv6": "2"
+  },
+  {
+    "tld": "chrome",
+    "domains": "3",
+    "ipv4": "2",
+    "ipv6": "1"
+  },
+  {
+    "tld": "prod",
+    "domains": "3",
+    "ipv4": "2",
+    "ipv6": "2"
+  },
+  {
+    "tld": "trv",
+    "domains": "3",
+    "ipv4": "2",
+    "ipv6": "0"
+  },
+  {
+    "tld": "olayangroup",
+    "domains": "3",
+    "ipv4": "2",
+    "ipv6": "0"
+  },
+  {
+    "tld": "itau",
+    "domains": "3",
+    "ipv4": "2",
+    "ipv6": "0"
+  },
+  {
+    "tld": "docs",
+    "domains": "3",
+    "ipv4": "1",
+    "ipv6": "1"
+  },
+  {
+    "tld": "passagens",
+    "domains": "3",
+    "ipv4": "2",
+    "ipv6": "0"
+  },
+  {
+    "tld": "zappos",
+    "domains": "3",
+    "ipv4": "2",
+    "ipv6": "0"
+  },
+  {
+    "tld": "sakura",
+    "domains": "3",
+    "ipv4": "1",
+    "ipv6": "1"
+  },
+  {
+    "tld": "esq",
+    "domains": "3",
+    "ipv4": "2",
+    "ipv6": "2"
+  },
+  {
+    "tld": "beats",
+    "domains": "3",
+    "ipv4": "2",
+    "ipv6": "0"
+  },
+  {
+    "tld": "prime",
+    "domains": "3",
+    "ipv4": "2",
+    "ipv6": "0"
+  },
+  {
+    "tld": "flir",
+    "domains": "3",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "redumbrella",
+    "domains": "3",
+    "ipv4": "2",
+    "ipv6": "0"
+  },
+  {
+    "tld": "lincoln",
+    "domains": "3",
+    "ipv4": "2",
+    "ipv6": "0"
+  },
+  {
+    "tld": "hdfcbank",
+    "domains": "3",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "vuelos",
+    "domains": "3",
+    "ipv4": "2",
+    "ipv6": "0"
+  },
+  {
+    "tld": "nike",
+    "domains": "3",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "fly",
+    "domains": "3",
+    "ipv4": "2",
+    "ipv6": "2"
+  },
+  {
+    "tld": "day",
+    "domains": "3",
+    "ipv4": "2",
+    "ipv6": "2"
+  },
+  {
+    "tld": "sas",
+    "domains": "3",
+    "ipv4": "2",
+    "ipv6": "0"
+  },
+  {
+    "tld": "ups",
+    "domains": "3",
+    "ipv4": "2",
+    "ipv6": "0"
+  },
+  {
+    "tld": "box",
+    "domains": "3",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "bcg",
+    "domains": "3",
+    "ipv4": "2",
+    "ipv6": "1"
+  },
+  {
+    "tld": "mov",
+    "domains": "3",
+    "ipv4": "2",
+    "ipv6": "2"
+  },
+  {
+    "tld": "olayan",
+    "domains": "3",
+    "ipv4": "2",
+    "ipv6": "0"
+  },
+  {
+    "tld": "prof",
+    "domains": "3",
+    "ipv4": "2",
+    "ipv6": "2"
+  },
+  {
+    "tld": "nfl",
+    "domains": "3",
+    "ipv4": "2",
+    "ipv6": "0"
+  },
+  {
+    "tld": "zip",
+    "domains": "3",
+    "ipv4": "2",
+    "ipv6": "2"
+  },
+  {
+    "tld": "open",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "save",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "origins",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "mint",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "frontier",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "shia",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "1"
+  },
+  {
+    "tld": "xn--jlq480n2rg",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "xn--mgba3a3ejt",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "delta",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "stcgroup",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "hot",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "tushu",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "tjx",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "giving",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "calvinklein",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "akdn",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "yamaxun",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "phd",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "1"
+  },
+  {
+    "tld": "hdfc",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "1"
+  },
+  {
+    "tld": "flickr",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "tab",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "call",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "free",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "xn--9et52u",
+    "domains": "2",
+    "ipv4": "0",
+    "ipv6": "0"
+  },
+  {
+    "tld": "seek",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "1"
+  },
+  {
+    "tld": "xn--qcka1pmc",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "1"
+  },
+  {
+    "tld": "scholarships",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "aramco",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "hbo",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "xn--mgbaakc7dvf",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "1"
+  },
+  {
+    "tld": "got",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "blockbuster",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "viva",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "mormon",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "cipriani",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "homedepot",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "yun",
+    "domains": "2",
+    "ipv4": "0",
+    "ipv6": "0"
+  },
+  {
+    "tld": "lds",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "xn--gk3at1e",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "tdk",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "dunlop",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "deal",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "anquan",
+    "domains": "2",
+    "ipv4": "0",
+    "ipv6": "0"
+  },
+  {
+    "tld": "homesense",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "pid",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "search",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "1"
+  },
+  {
+    "tld": "xn--cckwcxetd",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "llp",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "1"
+  },
+  {
+    "tld": "cal",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "1"
+  },
+  {
+    "tld": "xn--80aqecdr1a",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "audible",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "like",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "thd",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "xn--nqv7fs00ema",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "ferrari",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "dtv",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "xn--mgbt3dhd",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "1"
+  },
+  {
+    "tld": "fedex",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "phone",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "caravan",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "lancia",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "nba",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "cruise",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "ibm",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "xn--cg4bki",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "1"
+  },
+  {
+    "tld": "etisalat",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "1"
+  },
+  {
+    "tld": "pnc",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "winners",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "bestbuy",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "room",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "tjmaxx",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "taobao",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "farmers",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "banamex",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "bom",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "1"
+  },
+  {
+    "tld": "alipay",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "dvr",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "sling",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "marshalls",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "jeep",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "spot",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "loft",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "lifeinsurance",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "safe",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "zero",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "kosher",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "secure",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "kindle",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "pars",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "1"
+  },
+  {
+    "tld": "tkmaxx",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "ott",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "xfinity",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "1"
+  },
+  {
+    "tld": "buy",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "locker",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "wanggou",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "pay",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "tmall",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "now",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "gbiz",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "1"
+  },
+  {
+    "tld": "author",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "rogers",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "smile",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "goodyear",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "pccw",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "xerox",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "gap",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "circle",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "safety",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "dclk",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "1"
+  },
+  {
+    "tld": "final",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "1"
+  },
+  {
+    "tld": "xihuan",
+    "domains": "2",
+    "ipv4": "0",
+    "ipv6": "0"
+  },
+  {
+    "tld": "jot",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "lpl",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "latino",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "abarth",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "drive",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "1"
+  },
+  {
+    "tld": "coupon",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "reliance",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "1"
+  },
+  {
+    "tld": "comcast",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "1"
+  },
+  {
+    "tld": "hkt",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "case",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "athleta",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "viking",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "lamer",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "gallup",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "play",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "1"
+  },
+  {
+    "tld": "tci",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "1"
+  },
+  {
+    "tld": "read",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "maserati",
+    "domains": "2",
+    "ipv4": "0",
+    "ipv6": "0"
+  },
+  {
+    "tld": "nowtv",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "map",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "1"
+  },
+  {
+    "tld": "virgin",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "fast",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "avianca",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "xn--eckvdtc9d",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "joy",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "budapest",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "shouji",
+    "domains": "2",
+    "ipv4": "0",
+    "ipv6": "0"
+  },
+  {
+    "tld": "oldnavy",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "staples",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "richardli",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "dds",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "agakhan",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "nexus",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "1"
+  },
+  {
+    "tld": "arab",
+    "domains": "2",
+    "ipv4": "2",
+    "ipv6": "0"
+  },
+  {
+    "tld": "hotels",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "talk",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "clinique",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "star",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "dish",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "showtime",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "tvs",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "1"
+  },
+  {
+    "tld": "dot",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "you",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "boehringer",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "moto",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "homegoods",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "song",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "wow",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "xn--flw351e",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "1"
+  },
+  {
+    "tld": "intuit",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "netflix",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "xn--ngbrx",
+    "domains": "2",
+    "ipv4": "2",
+    "ipv6": "0"
+  },
+  {
+    "tld": "cbre",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "imdb",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "alibaba",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "pramerica",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "progressive",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "lplfinancial",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "wolterskluwer",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "xn--fzys8d69uvgm",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "ollo",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "hughes",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "alfaromeo",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "silk",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "pin",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "mckinsey",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "wtc",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "watches",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "tunes",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "mls",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "weather",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "icbc",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "mobile",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "data",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "hangout",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "1"
+  },
+  {
+    "tld": "xn--b4w605ferd",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "book",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "android",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "1"
+  },
+  {
+    "tld": "fido",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "xn--mgbi4ecexp",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "fiat",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "bananarepublic",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "xn--tiq49xqyj",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "xn--mxtq1m",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "weatherchannel",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "xn--jlq61u9w7b",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "guge",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "1"
+  },
+  {
+    "tld": "lasalle",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "fire",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "booking",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  },
+  {
+    "tld": "ril",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "1"
+  },
+  {
+    "tld": "baseball",
+    "domains": "2",
+    "ipv4": "1",
+    "ipv6": "0"
+  }
+]
